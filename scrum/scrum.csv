@@ -1,10 +1,3 @@
 Key,Assignee,Summary,Link,Status
-IN-2047,llu,Update the SEC Realizable Pay Disclaimer Message,https://jira.equilar.com/rest/api/latest/issue/39844,In QA
-IN-1748,vgarg,[O2P] Migrate Products - Shareholder Engagement - Total Shareholder Return - QA,https://jira.equilar.com/rest/api/latest/issue/37885,Resolved
-IN-2030,ikho,script - tsr_fy,https://jira.equilar.com/rest/api/latest/issue/39685,Closed
-IN-1794,llu,SocketException is logged while loading ISS Simulator in Company Profile.,https://jira.equilar.com/rest/api/latest/issue/38404,In Code Review
-IN-2050,schau,Tech Support,https://jira.equilar.com/rest/api/latest/issue/39881,In Progress
-IN-2003,llu,Many queries were removed in P4PISSQuerries,https://jira.equilar.com/rest/api/latest/issue/39645,In QA
-IN-2002,llu,Missing GET_GL_PROXY_PAPER_DATA from P4PGLProxyPaperDAOImpl.java,https://jira.equilar.com/rest/api/latest/issue/39643,In QA
-IN-2041,llu,[O2P] deloitte_data_feed.sh script is taking long time to run when compared with oracle,https://jira.equilar.com/rest/api/latest/issue/39730,In QA
-IN-2049,llu,News section keeps on loading  unable to save the changes. Throwing an Exception,https://jira.equilar.com/rest/api/latest/issue/39873,In Code Review
+IN-2035,llu,[Automation] Research - Tools & Resources - Document Center,https://jira.equilar.com/rest/api/latest/issue/39690,In Code Review
+IN-2051,llu,[O2P] P4P Dashboard - Missing data,https://jira.equilar.com/rest/api/latest/issue/39905,Resolved

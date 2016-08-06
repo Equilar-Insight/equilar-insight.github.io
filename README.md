@@ -1,4 +1,4 @@
-Scribble
-========
+Equilar Insight
+===============
 
 joinequilar.com

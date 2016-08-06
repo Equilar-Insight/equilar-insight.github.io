@@ -11,7 +11,7 @@ links:
     url:          /about
   - name:         Blog
     url:          http://equilar-insight.github.io
-    external:     true
+    external:     false
   - name:         GitHub
     url:          http://github.com/equilar-insight
     external:     true

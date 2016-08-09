@@ -1,11 +1,6 @@
 Key,Assignee,Summary,Link,Status
-IN-2006,llu,Pre-run TrueView Report,https://jira.equilar.com/rest/api/latest/issue/39652,In Progress
-IN-2005,llu,Pre-run Survey Report,https://jira.equilar.com/rest/api/latest/issue/39651,In Progress
-IN-2007,llu,Make Survey Live,https://jira.equilar.com/rest/api/latest/issue/39653,In Progress
-IN-2060,tkasina,Test cases for Peer Group Center,https://jira.equilar.com/rest/api/latest/issue/39961,In Progress
-IN-2059,tkasina,Test cases for Option Grant Calculator,https://jira.equilar.com/rest/api/latest/issue/39960,In Progress
-IN-2058,tkasina,Test case authoring for FAQ  in Tools and Resources,https://jira.equilar.com/rest/api/latest/issue/39959,In Progress
-IN-2057,tkasina,Test case authoring for Document Center in Tools and Resources,https://jira.equilar.com/rest/api/latest/issue/39958,In Progress
-IN-2056,tkasina,Test case authoring for Knowledge Search in Tools and Resources,https://jira.equilar.com/rest/api/latest/issue/39957,In Progress
-IN-2055,tkasina,Test case authoring for the story Tools and Resources ,https://jira.equilar.com/rest/api/latest/issue/39956,In Progress
-IN-2054,null,Testing Peer group Dashboard,https://jira.equilar.com/rest/api/latest/issue/39955,In Progress
+IN-2006,llu,Pre-run TrueView Report,https://jira.equilar.com/rest/api/latest/issue/39652,In QA
+IN-2005,llu,Pre-run Survey Report,https://jira.equilar.com/rest/api/latest/issue/39651,In QA
+IN-2025,vgarg,script - peer_company,https://jira.equilar.com/rest/api/latest/issue/39679,Closed
+IN-2062,vgarg,Testing & Incorporating,https://jira.equilar.com/rest/api/latest/issue/40001,Closed
+IN-2063,null,Testing Disclosure Search Component,https://jira.equilar.com/rest/api/latest/issue/40002,In Progress

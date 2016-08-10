@@ -1,6 +1,7 @@
 Key,Assignee,Summary,Link,Status
-IN-2006,llu,Pre-run TrueView Report,https://jira.equilar.com/rest/api/latest/issue/39652,In QA
-IN-2005,llu,Pre-run Survey Report,https://jira.equilar.com/rest/api/latest/issue/39651,In QA
-IN-2025,vgarg,script - peer_company,https://jira.equilar.com/rest/api/latest/issue/39679,Closed
-IN-2062,vgarg,Testing & Incorporating,https://jira.equilar.com/rest/api/latest/issue/40001,Closed
-IN-2063,null,Testing Disclosure Search Component,https://jira.equilar.com/rest/api/latest/issue/40002,In Progress
+IN-2029,ikho,scripts - survey_blending,https://jira.equilar.com/rest/api/latest/issue/39684,Closed
+IN-2067,sgopalam,Benchmarking for (Analytics - Form 4),https://jira.equilar.com/rest/api/latest/issue/40051,In Progress
+IN-2069,SNeelakantam,Benchmarking for (Shareholder Engagement-Shareholder Value Transfer),https://jira.equilar.com/rest/api/latest/issue/40053,In Progress
+IN-2071,vgolakoti,Benchmarking for (Shareholder Engagement-Proxy Proposals & Results),https://jira.equilar.com/rest/api/latest/issue/40055,In Progress
+IN-2070,sgopalam,Benchmarking for (Shareholder Engagement-Additional Share Request),https://jira.equilar.com/rest/api/latest/issue/40054,In Progress
+IN-2066,sgopalam,Benchmarking for (Analytics - Officer Grants Report),https://jira.equilar.com/rest/api/latest/issue/40050,In Progress

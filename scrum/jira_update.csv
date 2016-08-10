@@ -1,0 +1,10 @@
+Key,Assignee,Summary,Link,Status
+IN-2036,llu,[Automation] Research - Tools & Resources - Option Grant Calculator,https://jira.equilar.com/rest/api/latest/issue/39691,In Code Review
+IN-2064,sdash,Throwing Exception in People Search and Taking more time to execute Query in PostgreSQL,https://jira.equilar.com/rest/api/latest/issue/40047,In Progress
+IN-2065,sgudiseva,Benchmarking for (Shareholder Engagement-Pay For Performance) ,https://jira.equilar.com/rest/api/latest/issue/40049,In Progress
+IN-2066,sgopalam,Benchmarking for (Analytics - Officer Grants Report),https://jira.equilar.com/rest/api/latest/issue/40050,In Progress
+IN-2067,sgopalam,Benchmarking for (Analytics - Form 4),https://jira.equilar.com/rest/api/latest/issue/40051,In Progress
+IN-2070,sgopalam,Benchmarking for (Shareholder Engagement-Additional Share Request),https://jira.equilar.com/rest/api/latest/issue/40054,In Progress
+IN-2071,vgolakoti,Benchmarking for (Shareholder Engagement-Proxy Proposals & Results),https://jira.equilar.com/rest/api/latest/issue/40055,In Progress
+IN-2069,SNeelakantam,Benchmarking for (Shareholder Engagement-Shareholder Value Transfer),https://jira.equilar.com/rest/api/latest/issue/40053,In Progress
+IN-2068,verrabelli,Benchmarking for (Analytics-Peer Group Dashboard),https://jira.equilar.com/rest/api/latest/issue/40052,In Progress

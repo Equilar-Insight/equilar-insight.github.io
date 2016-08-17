@@ -1,18 +1,12 @@
 Key,Assignee,Summary,Link,Status
+IN-2026,vgarg,script - lucene_search,https://jira.equilar.com/rest/api/latest/issue/39680,Closed
 IN-2073,llu,LTIP Cash Doesn't Show Up in GDFV Pay under P4P Profile,https://jira.equilar.com/rest/api/latest/issue/40129,In Code Review
-IN-1794,llu,SocketException is logged while loading ISS Simulator in Company Profile.,https://jira.equilar.com/rest/api/latest/issue/38404,In QA
-IN-2036,llu,[Automation] Research - Tools & Resources - Option Grant Calculator,https://jira.equilar.com/rest/api/latest/issue/39691,In QA
-IN-2035,llu,[Automation] Research - Tools & Resources - Document Center,https://jira.equilar.com/rest/api/latest/issue/39690,In QA
-IN-1761,llu,P4P Company Profile Peer Group has Null Value,https://jira.equilar.com/rest/api/latest/issue/37985,In QA
-IN-2086,sgopalam,Benchmarking for (Tools & Resources - Peer Group Center),https://jira.equilar.com/rest/api/latest/issue/40251,In Progress
-IN-2084,svangala,Testing prpcc_source_orig_calcs,https://jira.equilar.com/rest/api/latest/issue/40247,In Progress
-IN-2083,tkasina,Test case authoring for Research Searvices Library,https://jira.equilar.com/rest/api/latest/issue/40245,In Progress
-IN-2082,tkasina,Test case authoring for Publications,https://jira.equilar.com/rest/api/latest/issue/40244,In Progress
-IN-2081,tkasina,Test cases for Incentive Plan Analysis,https://jira.equilar.com/rest/api/latest/issue/40243,In Progress
-IN-2049,llu,News section keeps on loading  unable to save the changes. Throwing an Exception,https://jira.equilar.com/rest/api/latest/issue/39873,In QA
-IN-2001,llu,UPCOMING_MEETINGS_FILTER,https://jira.equilar.com/rest/api/latest/issue/39637,In QA
-IN-1978,llu,The Limiting value in FORM4_INFO_SELECT in MasterManagementQueries was changes from 2 to 1,https://jira.equilar.com/rest/api/latest/issue/39539,Closed
-IN-2002,llu,Missing GET_GL_PROXY_PAPER_DATA from P4PGLProxyPaperDAOImpl.java,https://jira.equilar.com/rest/api/latest/issue/39643,Closed
-IN-2003,llu,Many queries were removed in P4PISSQuerries,https://jira.equilar.com/rest/api/latest/issue/39645,Closed
-IN-2042,llu,PRONTO_EXEC_LTI_COMP_SELECT in ProntoQueries is using right join when it should be using left join,https://jira.equilar.com/rest/api/latest/issue/39805,Closed
-IN-2043,llu,UPDATE_OR_INSERT_PRPCC_ORIG_CURNC's upsert query is using PRPCC_SOURCE_ORIG instead of PRPCC_ORIG_CURNC,https://jira.equilar.com/rest/api/latest/issue/39807,Closed
+IN-2008,ryang,Research Survey Industry Report,https://jira.equilar.com/rest/api/latest/issue/39654,In Progress
+IN-2080,sdash,Drilldown data is not inserting correctly into the prpcc_source_ddown table ,https://jira.equilar.com/rest/api/latest/issue/40242,In Progress
+IN-2074,SNeelakantam,Discrepancy Between Bar Chart And Pay Values in P4P Profile,https://jira.equilar.com/rest/api/latest/issue/40131,In Progress
+IN-2094,null,Test case Authoring,https://jira.equilar.com/rest/api/latest/issue/40313,Closed
+IN-2093,sgopalam,Benchmarking for (Benchmarking - EIClassic Module),https://jira.equilar.com/rest/api/latest/issue/40312,In Progress
+IN-2049,tkasina,News section keeps on loading  unable to save the changes. Throwing an Exception,https://jira.equilar.com/rest/api/latest/issue/39873,Resolved
+IN-2044,svangala,Test case authoring for the story IN -2023,https://jira.equilar.com/rest/api/latest/issue/39835,Closed
+IN-2077,verrabelli,ROW_NUM_MGMT_ROLE_RANKED is using limit 2,https://jira.equilar.com/rest/api/latest/issue/40234,In Progress
+IN-2076,verrabelli,LoadCompany.java  LoadExecutive.java  LoadPde.java is using rownum,https://jira.equilar.com/rest/api/latest/issue/40232,In Progress

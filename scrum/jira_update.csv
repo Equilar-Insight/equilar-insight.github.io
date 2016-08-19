@@ -1,11 +1,18 @@
 Key,Assignee,Summary,Link,Status
-IN-2027,vgarg,scripts - peer_group_gics_calculator,https://jira.equilar.com/rest/api/latest/issue/39681,In Progress
-IN-2096,null,sequence_name.nextval needed to be converted,https://jira.equilar.com/rest/api/latest/issue/40373,Closed
-IN-2074,llu,Discrepancy Between Bar Chart And Pay Values in P4P Profile,https://jira.equilar.com/rest/api/latest/issue/40131,In Code Review
-IN-2097,null,Test case authoring,https://jira.equilar.com/rest/api/latest/issue/40379,In Progress
-IN-2077,llu,ROW_NUM_MGMT_ROLE_RANKED is using limit 2,https://jira.equilar.com/rest/api/latest/issue/40234,In Code Review
-IN-2076,llu,LoadCompany.java  LoadExecutive.java  LoadPde.java is using rownum,https://jira.equilar.com/rest/api/latest/issue/40232,In Code Review
-IN-2088,llu,AllProxyFilingsBody.jsp and AllPGBFilings.jsp are still using nvl.,https://jira.equilar.com/rest/api/latest/issue/40270,In QA
-IN-2001,llu,UPCOMING_MEETINGS_FILTER,https://jira.equilar.com/rest/api/latest/issue/39637,Closed
-IN-2092,sgudiseva,Privacy Policy on email pop up window is navigating to 404 Error page,https://jira.equilar.com/rest/api/latest/issue/40311,In Progress
-IN-2085,llu,Companies data is showing in Stock splits section even the data is empty,https://jira.equilar.com/rest/api/latest/issue/40249,In Code Review
+IN-2012,svangala,Deloitte Datafeed ,https://jira.equilar.com/rest/api/latest/issue/39666,Closed
+IN-1794,llu,SocketException is logged while loading ISS Simulator in Company Profile.,https://jira.equilar.com/rest/api/latest/issue/38404,Resolved
+IN-1761,llu,P4P Company Profile Peer Group has Null Value,https://jira.equilar.com/rest/api/latest/issue/37985,Closed
+IN-2074,llu,Discrepancy Between Bar Chart And Pay Values in P4P Profile,https://jira.equilar.com/rest/api/latest/issue/40131,In QA
+IN-2073,llu,LTIP Cash Doesn't Show Up in GDFV Pay under P4P Profile,https://jira.equilar.com/rest/api/latest/issue/40129,In QA
+IN-2080,llu,Drilldown data is not inserting correctly into the prpcc_source_ddown table ,https://jira.equilar.com/rest/api/latest/issue/40242,In QA
+IN-2103,vgolakoti,Dev Testing-Deloitte Datafeed,https://jira.equilar.com/rest/api/latest/issue/40436,In Progress
+IN-2041,svangala,[O2P] deloitte_data_feed.sh script is taking long time to run when compared with oracle,https://jira.equilar.com/rest/api/latest/issue/39730,Resolved
+IN-2085,llu,Companies data is showing in Stock splits section even the data is empty,https://jira.equilar.com/rest/api/latest/issue/40249,Resolved
+IN-2099,svangala,Null pointer Exceptions are logged while running executive_calcs.sh script with daily option,https://jira.equilar.com/rest/api/latest/issue/40381,Resolved
+IN-2077,llu,ROW_NUM_MGMT_ROLE_RANKED is using limit 2,https://jira.equilar.com/rest/api/latest/issue/40234,In QA
+IN-2064,llu,Throwing Exception in People Search and Taking more time to execute Query in PostgreSQL,https://jira.equilar.com/rest/api/latest/issue/40047,In QA
+IN-2100,llu,No results are displayed in Publication for Executive Compensation even though data is available,https://jira.equilar.com/rest/api/latest/issue/40382,In QA
+IN-2098,sgudiseva,Peer_group_gics_calculator scripts take long time for all companies in Postgres ,https://jira.equilar.com/rest/api/latest/issue/40380,In Progress
+IN-2101,SNeelakantam,Charts are missing in PDF download for Pay for Performance Module.,https://jira.equilar.com/rest/api/latest/issue/40383,In Progress
+IN-2095,SNeelakantam,P4PDashBoardPreRunQuery.sh is not converted into postgres,https://jira.equilar.com/rest/api/latest/issue/40321,Closed
+IN-2102,sgopalam,Benchmarking for (Benchmarking - Board Compensation),https://jira.equilar.com/rest/api/latest/issue/40384,In Progress

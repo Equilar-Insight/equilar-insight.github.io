@@ -1,1 +1,20 @@
 Key,Assignee,Summary,Link,Status
+IN-2075,llu,[O2P] different result from volatility_weekly Oracle v.s. PostgreSQL,https://jira.equilar.com/rest/api/latest/issue/40199,In QA
+IN-1955,svangala,The automated_dataruns table is not updated when the data_runs script is run ,https://jira.equilar.com/rest/api/latest/issue/39388,Resolved
+IN-2017,tkasina,Research,https://jira.equilar.com/rest/api/latest/issue/39671,Closed
+IN-2072,llu,Different Exchange Rates Are Used In One TCR Download,https://jira.equilar.com/rest/api/latest/issue/40088,In Code Review
+IN-1875,llu,Currency Is Converted using a wrong date,https://jira.equilar.com/rest/api/latest/issue/38763,Resolved
+IN-2098,llu,Peer_group_gics_calculator scripts take long time for all companies in Postgres ,https://jira.equilar.com/rest/api/latest/issue/40380,In Code Review
+IN-1902,llu,Arguments not working in the script 'gl_proxy_paper_processor'.,https://jira.equilar.com/rest/api/latest/issue/38961,In Code Review
+IN-2077,svangala,ROW_NUM_MGMT_ROLE_RANKED is using limit 2,https://jira.equilar.com/rest/api/latest/issue/40234,Resolved
+IN-2088,svangala,AllProxyFilingsBody.jsp and AllPGBFilings.jsp are still using nvl.,https://jira.equilar.com/rest/api/latest/issue/40270,Resolved
+IN-2105,llu,Exceptions are logged while running Load Insight - NON_PROFIT scripts,https://jira.equilar.com/rest/api/latest/issue/40445,In QA
+IN-1915,llu,Converted query in CDASearchDAO is using positions  but positions searches a substring in a string ,https://jira.equilar.com/rest/api/latest/issue/39119,In Code Review
+IN-1430,llu,Incorrect data for a corresponding year in SEC Realizable Pay - Table row calc layer,https://jira.equilar.com/rest/api/latest/issue/35175,In Code Review
+IN-2108,tkasina,Testing the Story IN-2017: Research,https://jira.equilar.com/rest/api/latest/issue/40474,Closed
+IN-2083,tkasina,Test case authoring for Research Searvices Library,https://jira.equilar.com/rest/api/latest/issue/40245,Closed
+IN-2082,tkasina,Test case authoring for Publications,https://jira.equilar.com/rest/api/latest/issue/40244,Closed
+IN-2081,tkasina,Test cases for Incentive Plan Analysis,https://jira.equilar.com/rest/api/latest/issue/40243,Closed
+IN-2064,llu,Throwing Exception in People Search and Taking more time to execute Query in PostgreSQL,https://jira.equilar.com/rest/api/latest/issue/40047,Resolved
+IN-2107,llu,PSQLException:On running data_suns script ,https://jira.equilar.com/rest/api/latest/issue/40470,In Code Review
+IN-2100,llu,No results are displayed in Publication for Executive Compensation even though data is available,https://jira.equilar.com/rest/api/latest/issue/40382,Resolved

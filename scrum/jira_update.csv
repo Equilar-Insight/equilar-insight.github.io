@@ -1,20 +1,21 @@
 Key,Assignee,Summary,Link,Status
-IN-2075,llu,[O2P] different result from volatility_weekly Oracle v.s. PostgreSQL,https://jira.equilar.com/rest/api/latest/issue/40199,In QA
-IN-1955,svangala,The automated_dataruns table is not updated when the data_runs script is run ,https://jira.equilar.com/rest/api/latest/issue/39388,Resolved
-IN-2017,tkasina,Research,https://jira.equilar.com/rest/api/latest/issue/39671,Closed
-IN-2072,llu,Different Exchange Rates Are Used In One TCR Download,https://jira.equilar.com/rest/api/latest/issue/40088,In Code Review
-IN-1875,llu,Currency Is Converted using a wrong date,https://jira.equilar.com/rest/api/latest/issue/38763,Resolved
-IN-2098,llu,Peer_group_gics_calculator scripts take long time for all companies in Postgres ,https://jira.equilar.com/rest/api/latest/issue/40380,In Code Review
-IN-1902,llu,Arguments not working in the script 'gl_proxy_paper_processor'.,https://jira.equilar.com/rest/api/latest/issue/38961,In Code Review
-IN-2077,svangala,ROW_NUM_MGMT_ROLE_RANKED is using limit 2,https://jira.equilar.com/rest/api/latest/issue/40234,Resolved
-IN-2088,svangala,AllProxyFilingsBody.jsp and AllPGBFilings.jsp are still using nvl.,https://jira.equilar.com/rest/api/latest/issue/40270,Resolved
-IN-2105,llu,Exceptions are logged while running Load Insight - NON_PROFIT scripts,https://jira.equilar.com/rest/api/latest/issue/40445,In QA
-IN-1915,llu,Converted query in CDASearchDAO is using positions  but positions searches a substring in a string ,https://jira.equilar.com/rest/api/latest/issue/39119,In Code Review
-IN-1430,llu,Incorrect data for a corresponding year in SEC Realizable Pay - Table row calc layer,https://jira.equilar.com/rest/api/latest/issue/35175,In Code Review
-IN-2108,tkasina,Testing the Story IN-2017: Research,https://jira.equilar.com/rest/api/latest/issue/40474,Closed
-IN-2083,tkasina,Test case authoring for Research Searvices Library,https://jira.equilar.com/rest/api/latest/issue/40245,Closed
-IN-2082,tkasina,Test case authoring for Publications,https://jira.equilar.com/rest/api/latest/issue/40244,Closed
-IN-2081,tkasina,Test cases for Incentive Plan Analysis,https://jira.equilar.com/rest/api/latest/issue/40243,Closed
-IN-2064,llu,Throwing Exception in People Search and Taking more time to execute Query in PostgreSQL,https://jira.equilar.com/rest/api/latest/issue/40047,Resolved
-IN-2107,llu,PSQLException:On running data_suns script ,https://jira.equilar.com/rest/api/latest/issue/40470,In Code Review
-IN-2100,llu,No results are displayed in Publication for Executive Compensation even though data is available,https://jira.equilar.com/rest/api/latest/issue/40382,Resolved
+IN-2075,svangala,[O2P] different result from volatility_weekly Oracle v.s. PostgreSQL,https://jira.equilar.com/rest/api/latest/issue/40199,Resolved
+IN-2019,tkasina,Tools & Resources,https://jira.equilar.com/rest/api/latest/issue/39673,In Progress
+IN-2023,svangala,Insight script - data_runs,https://jira.equilar.com/rest/api/latest/issue/39677,Closed
+IN-2039,llu,[Automation] benchmark - TSR lookback & lookfoward ,https://jira.equilar.com/rest/api/latest/issue/39694,In Code Review
+IN-2008,ryang,Research Survey Industry Report,https://jira.equilar.com/rest/api/latest/issue/39654,Closed
+IN-2018,tkasina,GL Proxy Paper,https://jira.equilar.com/rest/api/latest/issue/39672,In Progress
+IN-2011,vgarg,GL Datafeed with Benchmark,https://jira.equilar.com/rest/api/latest/issue/39665,In Progress
+IN-2020,tkasina,Home Page,https://jira.equilar.com/rest/api/latest/issue/39674,In Progress
+IN-2024,tkasina,script - exchange_rate_feed,https://jira.equilar.com/rest/api/latest/issue/39678,In Progress
+IN-2090,tkasina,Regression Testing and Benchmark - SayOnPay O2P Stage,https://jira.equilar.com/rest/api/latest/issue/40302,In Progress
+IN-2074,llu,Discrepancy Between Bar Chart And Pay Values in P4P Profile,https://jira.equilar.com/rest/api/latest/issue/40131,Resolved
+IN-2034,svangala,Load Insight ,https://jira.equilar.com/rest/api/latest/issue/39689,Closed
+IN-2110,llu,Consultants should not be able to download GL Proxy Paper through SSP login.,https://jira.equilar.com/rest/api/latest/issue/40479,In Code Review
+IN-2114,llu,Data mismatch in People Search,https://jira.equilar.com/rest/api/latest/issue/40531,In Code Review
+IN-1902,llu,Arguments not working in the script 'gl_proxy_paper_processor'.,https://jira.equilar.com/rest/api/latest/issue/38961,Resolved
+IN-2107,svangala,PSQLException:On running data_runs script ,https://jira.equilar.com/rest/api/latest/issue/40470,Resolved
+IN-2105,svangala,Exceptions are logged while running Load Insight - NON_PROFIT scripts,https://jira.equilar.com/rest/api/latest/issue/40445,Resolved
+IN-2111,sgudiseva,Lear more link is not redirecting properly,https://jira.equilar.com/rest/api/latest/issue/40480,In Progress
+IN-2109,svangala,Load_insight Testing,https://jira.equilar.com/rest/api/latest/issue/40478,Closed
+IN-2104,SNeelakantam,Null pointer exception is getting logged while downloading Excel in Pay for Performance.,https://jira.equilar.com/rest/api/latest/issue/40441,In Progress

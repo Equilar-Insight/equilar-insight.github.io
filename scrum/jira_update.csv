@@ -1,32 +1,85 @@
 Key,Assignee,Summary,Link,Status
+IN-2007,llu,Make Survey Live,https://jira.equilar.com/rest/api/latest/issue/39653,Closed
+IN-2006,llu,Pre-run TrueView Report,https://jira.equilar.com/rest/api/latest/issue/39652,Resolved
+IN-2005,llu,Pre-run Survey Report,https://jira.equilar.com/rest/api/latest/issue/39651,Resolved
 IN-2106,llu,Dilution Modeler Formatted Download,https://jira.equilar.com/rest/api/latest/issue/40447,In Code Review
 IN-2047,llu,Update the SEC Realizable Pay Disclaimer Message,https://jira.equilar.com/rest/api/latest/issue/39844,Resolved
+IN-2019,tkasina,Tools & Resources,https://jira.equilar.com/rest/api/latest/issue/39673,Closed
+IN-2018,tkasina,GL Proxy Paper,https://jira.equilar.com/rest/api/latest/issue/39672,Reopened
+IN-2020,tkasina,Home Page,https://jira.equilar.com/rest/api/latest/issue/39674,Closed
+IN-2017,tkasina,Research,https://jira.equilar.com/rest/api/latest/issue/39671,Closed
+IN-1643,svangala,INTERNAL_SERVER_ERROR in Load core,https://jira.equilar.com/rest/api/latest/issue/37138,Resolved
+IN-1536,svangala,Internal server error,https://jira.equilar.com/rest/api/latest/issue/36056,Resolved
+IN-2032,svangala,Remove unused code,https://jira.equilar.com/rest/api/latest/issue/39687,Closed
+IN-2033,llu,Weekend Calc - proxy_board_calc - benchmark - too slow,https://jira.equilar.com/rest/api/latest/issue/39688,In QA
+IN-2027,vgarg,scripts - peer_group_gics_calculator,https://jira.equilar.com/rest/api/latest/issue/39681,Closed
+IN-2039,llu,[Automation] benchmark - TSR lookback & lookfoward ,https://jira.equilar.com/rest/api/latest/issue/39694,In QA
+IN-2038,llu,[Automation] Research - Tools & Resources - FAQ,https://jira.equilar.com/rest/api/latest/issue/39693,In QA
+IN-2112,sgopalam,Restricting Peer Group Builder Access on BEUA Still Allows Access on insight,https://jira.equilar.com/rest/api/latest/issue/40513,Closed
+IN-2004,llu,Stock Info Change - Make Historical Stock Prices Available,https://jira.equilar.com/rest/api/latest/issue/39650,In Code Review
+IN-2022,vgarg,Insight email alert,https://jira.equilar.com/rest/api/latest/issue/39676,Closed
+IN-2011,vgarg,GL Datafeed with Benchmark,https://jira.equilar.com/rest/api/latest/issue/39665,Closed
+IN-2080,svangala,Drilldown data is not inserting correctly into the prpcc_source_ddown table ,https://jira.equilar.com/rest/api/latest/issue/40242,Resolved
 IN-2016,svangala,Analytics,https://jira.equilar.com/rest/api/latest/issue/39670,Closed
 IN-2024,tkasina,script - exchange_rate_feed,https://jira.equilar.com/rest/api/latest/issue/39678,Closed
-IN-2020,tkasina,Home Page,https://jira.equilar.com/rest/api/latest/issue/39674,Closed
-IN-2112,sgopalam,Restricting Peer Group Builder Access on BEUA Still Allows Access on insight,https://jira.equilar.com/rest/api/latest/issue/40513,In Progress
-IN-2018,tkasina,GL Proxy Paper,https://jira.equilar.com/rest/api/latest/issue/39672,Closed
-IN-2075,svangala,[O2P] different result from volatility_weekly Oracle v.s. PostgreSQL,https://jira.equilar.com/rest/api/latest/issue/40199,Resolved
-IN-2019,tkasina,Tools & Resources,https://jira.equilar.com/rest/api/latest/issue/39673,In Progress
-IN-2023,svangala,Insight script - data_runs,https://jira.equilar.com/rest/api/latest/issue/39677,Closed
-IN-2039,llu,[Automation] benchmark - TSR lookback & lookfoward ,https://jira.equilar.com/rest/api/latest/issue/39694,In Code Review
-IN-2008,ryang,Research Survey Industry Report,https://jira.equilar.com/rest/api/latest/issue/39654,Closed
-IN-2011,vgarg,GL Datafeed with Benchmark,https://jira.equilar.com/rest/api/latest/issue/39665,In Progress
-IN-2090,tkasina,Regression Testing and Benchmark - SayOnPay O2P Stage,https://jira.equilar.com/rest/api/latest/issue/40302,In Progress
-IN-2074,llu,Discrepancy Between Bar Chart And Pay Values in P4P Profile,https://jira.equilar.com/rest/api/latest/issue/40131,Resolved
-IN-2034,svangala,Load Insight ,https://jira.equilar.com/rest/api/latest/issue/39689,Closed
-IN-2104,llu,Null pointer exception is getting logged while downloading Excel in Pay for Performance.,https://jira.equilar.com/rest/api/latest/issue/40441,In Code Review
-IN-1695,llu,PeerGroupBuilderController Failed to fetch the user peer groups Exception is logged in Peer Group Centre ,https://jira.equilar.com/rest/api/latest/issue/37684,In Code Review
+IN-2146,llu,Working on point estimations for sprint 87 stories,https://jira.equilar.com/rest/api/latest/issue/40646,In Code Review
+IN-2136,null,Test Case Authoring for Shareholder Value Transfer SVT,https://jira.equilar.com/rest/api/latest/issue/40630,Closed
+IN-2145,null,Benchmarking data for Say on Pay,https://jira.equilar.com/rest/api/latest/issue/40644,In Progress
+IN-2144,llu,Worked on calcs financial and financial orig scripts,https://jira.equilar.com/rest/api/latest/issue/40643,In Code Review
+IN-2143,llu,Worked on backup data for survey(missed few companies data),https://jira.equilar.com/rest/api/latest/issue/40642,In Code Review
+IN-2142,sgudiseva,Dev Testing (Analytics--Disclosure Search-CD&A and 8K reports),https://jira.equilar.com/rest/api/latest/issue/40641,In Progress
+IN-2130,llu,Dev Testing (Research - Research Services Library),https://jira.equilar.com/rest/api/latest/issue/40622,In Code Review
+IN-2071,llu,Benchmarking for (Shareholder Engagement-Proxy Proposals & Results),https://jira.equilar.com/rest/api/latest/issue/40055,In Code Review
+IN-2119,llu,Benchmarking (Shareholder Engagement- Total Shareholder Return),https://jira.equilar.com/rest/api/latest/issue/40552,In Code Review
+IN-2141,llu,Working on  ExecutiveInsight Classic module of story #IN-2014(Benchmarking),https://jira.equilar.com/rest/api/latest/issue/40637,In Code Review
+IN-2124,llu,Benchmarking for (Tools & Resources - Knowledge Search),https://jira.equilar.com/rest/api/latest/issue/40615,In Code Review
+IN-2140,llu,Worked on Point Estimates for Sprint 87 Stories,https://jira.equilar.com/rest/api/latest/issue/40636,In Code Review
+IN-2137,tkasina,Benchmarking data for Home Page,https://jira.equilar.com/rest/api/latest/issue/40631,Closed
+IN-2121,llu,Dev Testing for (Tools & Resources - Option Grant Calculator),https://jira.equilar.com/rest/api/latest/issue/40554,In Code Review
+IN-2128,llu,Dev Testing (Research - Incentive Plan Analysis,https://jira.equilar.com/rest/api/latest/issue/40619,In Code Review
+IN-2070,llu,Benchmarking & Dev Testing for (Shareholder Engagement-Additional Share Request),https://jira.equilar.com/rest/api/latest/issue/40054,In Code Review
+IN-2067,llu,Benchmarking & Dev Testing for (Analytics - Form 4),https://jira.equilar.com/rest/api/latest/issue/40051,In Code Review
+IN-2066,llu,Benchmarking & Dev Testing for (Analytics - Officer Grants Report),https://jira.equilar.com/rest/api/latest/issue/40050,In Code Review
+IN-2076,llu,LoadCompany.java  LoadExecutive.java  LoadPde.java is using rownum,https://jira.equilar.com/rest/api/latest/issue/40232,In QA
+IN-2086,llu,Benchmarking and Dev Testing for (Tools & Resources - Peer Group Center),https://jira.equilar.com/rest/api/latest/issue/40251,In Code Review
+IN-2131,llu,Dev Testing (Home Page),https://jira.equilar.com/rest/api/latest/issue/40623,In Code Review
+IN-2093,llu,Benchmarking for (Benchmarking - EIClassic Module),https://jira.equilar.com/rest/api/latest/issue/40312,In Code Review
+IN-2065,llu,Benchmarking for (Shareholder Engagement-Pay For Performance) ,https://jira.equilar.com/rest/api/latest/issue/40049,In Code Review
+IN-2102,llu,Benchmarking for (Benchmarking - Board Compensation),https://jira.equilar.com/rest/api/latest/issue/40384,In Code Review
+IN-2125,llu,Benchmarking for (Benchmarking - New TCR),https://jira.equilar.com/rest/api/latest/issue/40616,In Code Review
+IN-2134,llu,Dev Testing (Analytics--Compensation Practices--Consultant Engagement Index),https://jira.equilar.com/rest/api/latest/issue/40626,In Code Review
+IN-2132,tkasina,Testing the Story Tools and Resources,https://jira.equilar.com/rest/api/latest/issue/40624,Closed
+IN-2060,tkasina,Test cases for Peer Group Center,https://jira.equilar.com/rest/api/latest/issue/39961,Closed
+IN-2059,tkasina,Test cases for Option Grant Calculator,https://jira.equilar.com/rest/api/latest/issue/39960,Closed
+IN-2058,tkasina,Test case authoring for FAQ  in Tools and Resources,https://jira.equilar.com/rest/api/latest/issue/39959,Closed
+IN-2057,tkasina,Test case authoring for Document Center in Tools and Resources,https://jira.equilar.com/rest/api/latest/issue/39958,Closed
+IN-2056,tkasina,Test case authoring for Knowledge Search in Tools and Resources,https://jira.equilar.com/rest/api/latest/issue/39957,Closed
+IN-2055,tkasina,Test case authoring for the story Tools and Resources ,https://jira.equilar.com/rest/api/latest/issue/39956,Closed
+IN-2053,vgarg,Test case authoring for Total Shareholder Return module.,https://jira.equilar.com/rest/api/latest/issue/39913,Closed
+IN-2127,tkasina,Benchmarking data for the Story Research,https://jira.equilar.com/rest/api/latest/issue/40618,Closed
+IN-1893,svangala,ProntoDAO.java still using add_months and ROWNUM,https://jira.equilar.com/rest/api/latest/issue/38870,Resolved
+IN-2046,vgarg,Test case authoring for Additional Share Request module.,https://jira.equilar.com/rest/api/latest/issue/39838,Closed
+IN-2052,vgarg,Test case authoring for Proxy Proposal & Request module.,https://jira.equilar.com/rest/api/latest/issue/39912,Closed
+IN-2045,null,Test case Authoring for Pay for Performance module,https://jira.equilar.com/rest/api/latest/issue/39837,Closed
+IN-2114,llu,Data mismatch in People Search,https://jira.equilar.com/rest/api/latest/issue/40531,Closed
+IN-2104,llu,Null pointer exception is getting logged while downloading Excel in Pay for Performance.,https://jira.equilar.com/rest/api/latest/issue/40441,Resolved
+IN-1915,llu,Converted query in CDASearchDAO is using positions  but positions searches a substring in a string ,https://jira.equilar.com/rest/api/latest/issue/39119,In QA
+IN-2098,llu,Peer_group_gics_calculator scripts take long time for all companies in Postgres ,https://jira.equilar.com/rest/api/latest/issue/40380,Resolved
+IN-2097,null,Test case authoring,https://jira.equilar.com/rest/api/latest/issue/40379,Closed
+IN-2117,tkasina,Testing the Story IN-2018,https://jira.equilar.com/rest/api/latest/issue/40550,Reopened
+IN-2068,llu,Benchmarking for (Analytics-Peer Group Dashboard),https://jira.equilar.com/rest/api/latest/issue/40052,In Code Review
+IN-2077,svangala,ROW_NUM_MGMT_ROLE_RANKED is using limit 2,https://jira.equilar.com/rest/api/latest/issue/40234,Closed
+IN-2088,svangala,AllProxyFilingsBody.jsp and AllPGBFilings.jsp are still using nvl.,https://jira.equilar.com/rest/api/latest/issue/40270,Closed
+IN-2123,null,Test Case Authoring,https://jira.equilar.com/rest/api/latest/issue/40568,Closed
+IN-2122,null,Test Case Authoring,https://jira.equilar.com/rest/api/latest/issue/40566,Closed
+IN-2115,llu,Dev Testing (Analytics--Disclosure Search),https://jira.equilar.com/rest/api/latest/issue/40532,In Code Review
+IN-2116,llu,Dev Testing (Analytics--Compensation Practices--Consultant Engagement Index),https://jira.equilar.com/rest/api/latest/issue/40538,In Code Review
+IN-1695,llu,PeerGroupBuilderController Failed to fetch the user peer groups Exception is logged in Peer Group Centre ,https://jira.equilar.com/rest/api/latest/issue/37684,Resolved
 IN-2063,svangala,Testing Disclosure Search Component,https://jira.equilar.com/rest/api/latest/issue/40002,Closed
 IN-2054,svangala,Testing Peer group Dashboard,https://jira.equilar.com/rest/api/latest/issue/39955,Closed
-IN-1893,llu,ProntoDAO.java still using add_months and ROWNUM,https://jira.equilar.com/rest/api/latest/issue/38870,In Code Review
 IN-2120,tkasina,Testing the Story IN-2024,https://jira.equilar.com/rest/api/latest/issue/40553,Closed
 IN-2118,tkasina,Testing the Story IN-2020,https://jira.equilar.com/rest/api/latest/issue/40551,Closed
 IN-2048,tkasina,Test case authoring for the story IN - 2020,https://jira.equilar.com/rest/api/latest/issue/39872,Closed
-IN-2117,tkasina,Testing the Story IN-2018,https://jira.equilar.com/rest/api/latest/issue/40550,Closed
 IN-2113,llu,Can't update password in Stage BEUA.,https://jira.equilar.com/rest/api/latest/issue/40516,In Code Review
-IN-2114,llu,Data mismatch in People Search,https://jira.equilar.com/rest/api/latest/issue/40531,In Code Review
-IN-1902,llu,Arguments not working in the script 'gl_proxy_paper_processor'.,https://jira.equilar.com/rest/api/latest/issue/38961,Resolved
-IN-2107,svangala,PSQLException:On running data_runs script ,https://jira.equilar.com/rest/api/latest/issue/40470,Resolved
-IN-2105,svangala,Exceptions are logged while running Load Insight - NON_PROFIT scripts,https://jira.equilar.com/rest/api/latest/issue/40445,Resolved
-IN-1920,llu,Uptodate exception is logged while running script 'risk_rate.sh'.,https://jira.equilar.com/rest/api/latest/issue/39137,In Code Review
+IN-1920,llu,Uptodate exception is logged while running script 'risk_rate.sh'.,https://jira.equilar.com/rest/api/latest/issue/39137,Resolved
+IN-1553,svangala,[O2P] Socket Exception logged while running load_insight_Proxy script,https://jira.equilar.com/rest/api/latest/issue/36509,Resolved

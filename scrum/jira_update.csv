@@ -1,52 +1,54 @@
 Key,Assignee,Summary,Link,Status
-IN-2021,svangala,Insight Calcs,https://jira.equilar.com/rest/api/latest/issue/39675,Closed
-IN-2187,llu,TCR Trueview charts are missing from the reports page,https://jira.equilar.com/rest/api/latest/issue/40770,In Code Review
-IN-2188,null,Peer Median Calculation Off for Historical CEO Compensation,https://jira.equilar.com/rest/api/latest/issue/40781,Closed
-IN-2156,llu,Failed to getRfrDoubleOrig ,https://jira.equilar.com/rest/api/latest/issue/40696,In QA
-IN-2071,llu,Benchmarking for (Shareholder Engagement-Proxy Proposals & Results),https://jira.equilar.com/rest/api/latest/issue/40055,Resolved
-IN-2103,llu,Dev Testing-Deloitte Datafeed,https://jira.equilar.com/rest/api/latest/issue/40436,Resolved
-IN-2119,llu,Benchmarking (Shareholder Engagement- Total Shareholder Return),https://jira.equilar.com/rest/api/latest/issue/40552,Resolved
-IN-2130,llu,Dev Testing (Research - Research Services Library),https://jira.equilar.com/rest/api/latest/issue/40622,Resolved
-IN-2141,llu,Working on  ExecutiveInsight Classic module of story #IN-2014(Benchmarking),https://jira.equilar.com/rest/api/latest/issue/40637,Resolved
-IN-2143,llu,Worked on backup data for survey(missed few companies data),https://jira.equilar.com/rest/api/latest/issue/40642,Resolved
-IN-2144,llu,Worked on calcs financial and financial orig scripts,https://jira.equilar.com/rest/api/latest/issue/40643,Resolved
-IN-2183,llu,Worked on Bug #IN - 2080 ( Drilldown data is not inserting correctly into the prpcc_source_ddown table ),https://jira.equilar.com/rest/api/latest/issue/40733,Resolved
-IN-2192,llu,Worked on Director Index Tab in Board Fees Report as per Xiang mail"",https://jira.equilar.com/rest/api/latest/issue/40805,Resolved
-IN-2065,llu,Benchmarking for (Shareholder Engagement-Pay For Performance) ,https://jira.equilar.com/rest/api/latest/issue/40049,Resolved
-IN-2121,llu,Dev Testing for (Tools & Resources - Option Grant Calculator),https://jira.equilar.com/rest/api/latest/issue/40554,Resolved
-IN-2124,llu,Benchmarking for (Tools & Resources - Knowledge Search),https://jira.equilar.com/rest/api/latest/issue/40615,Resolved
-IN-2128,llu,Dev Testing (Research - Incentive Plan Analysis,https://jira.equilar.com/rest/api/latest/issue/40619,Resolved
-IN-2142,llu,Dev Testing (Analytics--Disclosure Search-CD&A and 8K reports),https://jira.equilar.com/rest/api/latest/issue/40641,Resolved
-IN-2066,llu,Benchmarking & Dev Testing for (Analytics - Officer Grants Report),https://jira.equilar.com/rest/api/latest/issue/40050,Resolved
-IN-2150,llu,Worked on Point Estimates for Sprint 87 Stories,https://jira.equilar.com/rest/api/latest/issue/40650,Resolved
-IN-2194,llu,Dev Testing for (Shareholder Engagement-Additional Share Request),https://jira.equilar.com/rest/api/latest/issue/40808,Resolved
-IN-2067,llu,Benchmarking & Dev Testing for (Analytics - Form 4),https://jira.equilar.com/rest/api/latest/issue/40051,Resolved
-IN-2070,llu,Benchmarking & Dev Testing for (Shareholder Engagement-Additional Share Request),https://jira.equilar.com/rest/api/latest/issue/40054,Resolved
-IN-2086,llu,Benchmarking and Dev Testing for (Tools & Resources - Peer Group Center),https://jira.equilar.com/rest/api/latest/issue/40251,Resolved
-IN-2010,rvaranasi,Regression Testing,https://jira.equilar.com/rest/api/latest/issue/39656,In Progress
-IN-2145,null,Benchmarking data for Say on Pay,https://jira.equilar.com/rest/api/latest/issue/40644,Closed
-IN-2133,tkasina,Testing the Story IN-2090: Say On Pay,https://jira.equilar.com/rest/api/latest/issue/40625,Closed
-IN-2093,llu,Benchmarking for (Benchmarking - EIClassic Module),https://jira.equilar.com/rest/api/latest/issue/40312,Resolved
-IN-2195,vgarg,Regression Testing on Stage O2P,https://jira.equilar.com/rest/api/latest/issue/40809,Closed
-IN-2102,llu,Benchmarking for (Benchmarking - Board Compensation),https://jira.equilar.com/rest/api/latest/issue/40384,Resolved
-IN-2125,llu,Benchmarking for (Benchmarking - New TCR),https://jira.equilar.com/rest/api/latest/issue/40616,Resolved
-IN-2131,llu,Dev Testing (Home Page),https://jira.equilar.com/rest/api/latest/issue/40623,Resolved
-IN-2134,llu,Dev Testing (Analytics--Compensation Practices--Consultant Engagement Index),https://jira.equilar.com/rest/api/latest/issue/40626,Resolved
-IN-2140,llu,Worked on Point Estimates for Sprint 87 Stories,https://jira.equilar.com/rest/api/latest/issue/40636,Resolved
-IN-2190,llu,Testing on Download templates insight product,https://jira.equilar.com/rest/api/latest/issue/40803,Resolved
-IN-2193,llu,Worked on testing New TCR module in Stage Environment,https://jira.equilar.com/rest/api/latest/issue/40806,Resolved
-IN-2191,tkasina,Regression Testing on Stage O2P,https://jira.equilar.com/rest/api/latest/issue/40804,Closed
-IN-2189,llu,Companies data is showing in Stock splits section even the data is empty - In TCR  SVA downloads,https://jira.equilar.com/rest/api/latest/issue/40802,In Code Review
-IN-2111,tkasina,Lear more link is not redirecting properly,https://jira.equilar.com/rest/api/latest/issue/40480,Closed
-IN-2184,sgudiseva,""Learn More"" link in Say on Pay company profiles doesn't work,https://jira.equilar.com/rest/api/latest/issue/40753,In Progress
-IN-2185,llu,""Privacy Policy"" in Say on Pay failed email popup doesn't exist,https://jira.equilar.com/rest/api/latest/issue/40754,In Code Review
-IN-2186,llu,""Learn More"" link in Say on Pay Equilar Market peers popup doesn't exist,https://jira.equilar.com/rest/api/latest/issue/40759,In Code Review
-IN-2092,llu,Privacy Policy on email pop up window is navigating to 404 Error page,https://jira.equilar.com/rest/api/latest/issue/40311,In Code Review
-IN-2101,llu,Charts are missing in PDF download for Pay for Performance Module.,https://jira.equilar.com/rest/api/latest/issue/40383,Closed
-IN-2182,llu,Director Index tab shows N/A's in Board Fees Report.,https://jira.equilar.com/rest/api/latest/issue/40732,In QA
-IN-2181,llu,Worked on bug #IN-2061 (Invalid date format in tagger extracted xml file) ,https://jira.equilar.com/rest/api/latest/issue/40730,In Code Review
-IN-2180,llu,Worked on O2P-289 [Slow Query] Insight SolrDataDAO GET_DOCUMENT_DATA,https://jira.equilar.com/rest/api/latest/issue/40729,In Code Review
-IN-2179,llu,Worked on O2P-290[[Slow Query] P4P: GET_(TIME|PERFORMANCE)_BASED_OPTION_AND_STOCK_FROM_FORM4],https://jira.equilar.com/rest/api/latest/issue/40728,In Code Review
-IN-2178,llu,Worked on O2P-219[Query in DiscSearchDAOImpl is using CONTAINS and that is not a function in Postgres],https://jira.equilar.com/rest/api/latest/issue/40726,In Code Review
-IN-2177,llu,Worked on O2P-285[[Slow Query] Form4ValuationSearchDAO],https://jira.equilar.com/rest/api/latest/issue/40725,In Code Review
-IN-2176,llu,Worked on O2P-286 [Slow Query] Insight email alerts: Queries.java SELECT_APP_NEW_PROXY_EXECS,https://jira.equilar.com/rest/api/latest/issue/40724,In Code Review
+IN-2035,ryang,[Automation] Research - Tools & Resources - Document Center,https://jira.equilar.com/rest/api/latest/issue/39690,Closed
+IN-2039,ryang,[Automation] benchmark - TSR lookback & lookfoward ,https://jira.equilar.com/rest/api/latest/issue/39694,Closed
+IN-2036,ryang,[Automation] Research - Tools & Resources - Option Grant Calculator,https://jira.equilar.com/rest/api/latest/issue/39691,Closed
+IN-2038,ryang,[Automation] Research - Tools & Resources - FAQ,https://jira.equilar.com/rest/api/latest/issue/39693,Closed
+IN-2037,ryang,[Automation] Research - Tools & Resources - Knowledge Search,https://jira.equilar.com/rest/api/latest/issue/39692,Closed
+IN-2200,llu,LiMing & Menlo Scrum Meetings,https://jira.equilar.com/rest/api/latest/issue/40815,Closed
+IN-2204,ryang,Insight_Test Bug/Stable Fix,https://jira.equilar.com/rest/api/latest/issue/40833,Closed
+IN-2203,ryang,Confluence Document,https://jira.equilar.com/rest/api/latest/issue/40832,Closed
+IN-2202,ryang,LGL,https://jira.equilar.com/rest/api/latest/issue/40831,Closed
+IN-2201,llu,Worked on bug IN-2101 (Charts are missing in PDF download for Pay for Performance Module),https://jira.equilar.com/rest/api/latest/issue/40817,Resolved
+IN-2069,llu,Benchmarking for (Shareholder Engagement-Shareholder Value Transfer),https://jira.equilar.com/rest/api/latest/issue/40053,Resolved
+IN-2126,llu,Dev Testing (Benchmarking - New TCR),https://jira.equilar.com/rest/api/latest/issue/40617,Resolved
+IN-2135,llu,Dev Testing (Benchmarking - Board Compensation),https://jira.equilar.com/rest/api/latest/issue/40627,Resolved
+IN-2155,llu,Worked on Point Estimates for Sprint 87 Stories,https://jira.equilar.com/rest/api/latest/issue/40695,Resolved
+IN-2160,llu,Worked on Story #IN-2034 (Load Insight),https://jira.equilar.com/rest/api/latest/issue/40701,Resolved
+IN-2189,llu,Companies data is showing in Stock splits section even the data is empty - In TCR  SVA downloads,https://jira.equilar.com/rest/api/latest/issue/40802,Resolved
+IN-2165,llu,Started working on point estimations for sprint 87 stories,https://jira.equilar.com/rest/api/latest/issue/40710,Resolved
+IN-2166,llu,Working & testing on Story #IN-2034 (Load Insight),https://jira.equilar.com/rest/api/latest/issue/40712,Resolved
+IN-2168,llu,Worked on proxy_board_calc scripts,https://jira.equilar.com/rest/api/latest/issue/40714,Resolved
+IN-2169,llu,Working on new TCR module,https://jira.equilar.com/rest/api/latest/issue/40715,Resolved
+IN-2170,llu,Worked on issue with Survey suggestions in New TCR In stage-o2p,https://jira.equilar.com/rest/api/latest/issue/40716,Resolved
+IN-2171,llu,Worked on Issue with Conversion in New TCR Download,https://jira.equilar.com/rest/api/latest/issue/40717,Resolved
+IN-2173,llu,Worked on URGENT BEUA Functionality Request,https://jira.equilar.com/rest/api/latest/issue/40719,Resolved
+IN-2164,llu,Worked on IN-2021 Insight calcs,https://jira.equilar.com/rest/api/latest/issue/40709,Resolved
+IN-2167,llu,Testing stage-o2p environment,https://jira.equilar.com/rest/api/latest/issue/40713,Resolved
+IN-2172,llu,Worked on IN-2106 Dilution Modeler Formatted Download,https://jira.equilar.com/rest/api/latest/issue/40718,Resolved
+IN-2174,llu,Workd on o2p stories,https://jira.equilar.com/rest/api/latest/issue/40720,Resolved
+IN-2175,llu,Worked on Director Index Tab in Board Fees Report,https://jira.equilar.com/rest/api/latest/issue/40721,Resolved
+IN-2068,verrabelli,Benchmarking for (Analytics-Peer Group Dashboard),https://jira.equilar.com/rest/api/latest/issue/40052,Resolved
+IN-2115,verrabelli,Dev Testing (Analytics--Disclosure Search),https://jira.equilar.com/rest/api/latest/issue/40532,Resolved
+IN-2116,verrabelli,Dev Testing (Analytics--Compensation Practices--Consultant Engagement Index),https://jira.equilar.com/rest/api/latest/issue/40538,Resolved
+IN-2129,verrabelli,Dev Testing (Research - Publications),https://jira.equilar.com/rest/api/latest/issue/40620,Resolved
+IN-2149,verrabelli,Worked on bug TAG-239[unable to close tagging window and popups],https://jira.equilar.com/rest/api/latest/issue/40649,Resolved
+IN-2151,verrabelli,Worked on Point Estimates for Sprint 87 Stories,https://jira.equilar.com/rest/api/latest/issue/40652,Resolved
+IN-2152,verrabelli,Worked on Tagger Bugs,https://jira.equilar.com/rest/api/latest/issue/40653,Resolved
+IN-2161,verrabelli,Worked on O2P-253 [Wealth Atlas:Application is hanged when loading ""Assign-Tag"" under any module of Wealth Atlas.,https://jira.equilar.com/rest/api/latest/issue/40702,Resolved
+IN-2162,verrabelli,Worked on O2P-336 [STAGE:Wealth Atlas>>Form 8K Dashboard>>On loading 'Review Completed' exception is thrown.],https://jira.equilar.com/rest/api/latest/issue/40704,Resolved
+IN-2176,verrabelli,Worked on O2P-286 [Slow Query] Insight email alerts: Queries.java SELECT_APP_NEW_PROXY_EXECS,https://jira.equilar.com/rest/api/latest/issue/40724,Resolved
+IN-2177,verrabelli,Worked on O2P-285[[Slow Query] Form4ValuationSearchDAO],https://jira.equilar.com/rest/api/latest/issue/40725,Resolved
+IN-2178,verrabelli,Worked on O2P-219[Query in DiscSearchDAOImpl is using CONTAINS and that is not a function in Postgres],https://jira.equilar.com/rest/api/latest/issue/40726,Resolved
+IN-2179,verrabelli,Worked on O2P-290[[Slow Query] P4P: GET_(TIME|PERFORMANCE)_BASED_OPTION_AND_STOCK_FROM_FORM4],https://jira.equilar.com/rest/api/latest/issue/40728,Resolved
+IN-2180,verrabelli,Worked on O2P-289 [Slow Query] Insight SolrDataDAO GET_DOCUMENT_DATA,https://jira.equilar.com/rest/api/latest/issue/40729,Resolved
+IN-2181,verrabelli,Worked on bug #IN-2061 (Invalid date format in tagger extracted xml file) ,https://jira.equilar.com/rest/api/latest/issue/40730,Resolved
+IN-2198,verrabelli, Worked on  ExecutiveInsight Classic module,https://jira.equilar.com/rest/api/latest/issue/40812,Resolved
+IN-2199,verrabelli,Worked on Regression Testing on Insight Stage O2P,https://jira.equilar.com/rest/api/latest/issue/40813,Resolved
+IN-2197,llu,Testing on stage-o2p environment,https://jira.equilar.com/rest/api/latest/issue/40811,Resolved
+IN-2146,llu,Working on point estimations for sprint 87 stories,https://jira.equilar.com/rest/api/latest/issue/40646,Resolved
+IN-2147,llu,Dev Testing (Insight Calcs),https://jira.equilar.com/rest/api/latest/issue/40647,Resolved
+IN-2148,llu,Working & Testing on story #IN-2033 [Weekend Calc proxy_board_calc - benchmark - tool slow],https://jira.equilar.com/rest/api/latest/issue/40648,Resolved
+IN-2157,llu,Worked on IN - 287 ([NewTCR] Multiple Role Benchmarking - Modal Layer (Error Handling)),https://jira.equilar.com/rest/api/latest/issue/40697,Resolved
+IN-2158,llu,Worked on IN - 288 (Generated title in TCR search results are cut off),https://jira.equilar.com/rest/api/latest/issue/40698,Resolved
+IN-2159,llu,Worked on Story #IN-2034 (Load Insight),https://jira.equilar.com/rest/api/latest/issue/40699,Resolved
+IN-2196,llu,Testing on stage environment,https://jira.equilar.com/rest/api/latest/issue/40810,Resolved

@@ -1,1 +1,13 @@
 Key,Assignee,Summary,Link,Status
+IN-2015,vgarg,Shareholder Engagement,https://jira.equilar.com/rest/api/latest/issue/39669,Closed
+IN-2139,llu,Value Per Option displays N/A in SVT Calculation results.,https://jira.equilar.com/rest/api/latest/issue/40635,Closed
+IN-1794,llu,SocketException is logged while loading ISS Simulator in Company Profile.,https://jira.equilar.com/rest/api/latest/issue/38404,Closed
+IN-1748,vgarg,[O2P] Migrate Products - Shareholder Engagement - Total Shareholder Return - QA,https://jira.equilar.com/rest/api/latest/issue/37885,Closed
+IN-2200,llu,LiMing & Menlo Scrum Meetings,https://jira.equilar.com/rest/api/latest/issue/40815,Reopened
+IN-2085,llu,Companies data is showing in Stock splits section even the data is empty,https://jira.equilar.com/rest/api/latest/issue/40249,Closed
+IN-2104,llu,Null pointer exception is getting logged while downloading Excel in Pay for Performance.,https://jira.equilar.com/rest/api/latest/issue/40441,Closed
+IN-2098,llu,Peer_group_gics_calculator scripts take long time for all companies in Postgres ,https://jira.equilar.com/rest/api/latest/issue/40380,Closed
+IN-1695,llu,PeerGroupBuilderController Failed to fetch the user peer groups Exception is logged in Peer Group Centre ,https://jira.equilar.com/rest/api/latest/issue/37684,Closed
+IN-1902,llu,Arguments not working in the script 'gl_proxy_paper_processor'.,https://jira.equilar.com/rest/api/latest/issue/38961,Closed
+IN-2212,svangala,Regression Testing on Stage O2P,https://jira.equilar.com/rest/api/latest/issue/40872,Closed
+IN-1920,llu,Uptodate exception is logged while running script 'risk_rate.sh'.,https://jira.equilar.com/rest/api/latest/issue/39137,Closed

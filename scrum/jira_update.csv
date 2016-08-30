@@ -1,13 +1,26 @@
 Key,Assignee,Summary,Link,Status
-IN-2015,vgarg,Shareholder Engagement,https://jira.equilar.com/rest/api/latest/issue/39669,Closed
-IN-2139,llu,Value Per Option displays N/A in SVT Calculation results.,https://jira.equilar.com/rest/api/latest/issue/40635,Closed
-IN-1794,llu,SocketException is logged while loading ISS Simulator in Company Profile.,https://jira.equilar.com/rest/api/latest/issue/38404,Closed
-IN-1748,vgarg,[O2P] Migrate Products - Shareholder Engagement - Total Shareholder Return - QA,https://jira.equilar.com/rest/api/latest/issue/37885,Closed
-IN-2200,llu,LiMing & Menlo Scrum Meetings,https://jira.equilar.com/rest/api/latest/issue/40815,Reopened
-IN-2085,llu,Companies data is showing in Stock splits section even the data is empty,https://jira.equilar.com/rest/api/latest/issue/40249,Closed
-IN-2104,llu,Null pointer exception is getting logged while downloading Excel in Pay for Performance.,https://jira.equilar.com/rest/api/latest/issue/40441,Closed
-IN-2098,llu,Peer_group_gics_calculator scripts take long time for all companies in Postgres ,https://jira.equilar.com/rest/api/latest/issue/40380,Closed
-IN-1695,llu,PeerGroupBuilderController Failed to fetch the user peer groups Exception is logged in Peer Group Centre ,https://jira.equilar.com/rest/api/latest/issue/37684,Closed
-IN-1902,llu,Arguments not working in the script 'gl_proxy_paper_processor'.,https://jira.equilar.com/rest/api/latest/issue/38961,Closed
-IN-2212,svangala,Regression Testing on Stage O2P,https://jira.equilar.com/rest/api/latest/issue/40872,Closed
-IN-1920,llu,Uptodate exception is logged while running script 'risk_rate.sh'.,https://jira.equilar.com/rest/api/latest/issue/39137,Closed
+IN-2106,svangala,Dilution Modeler Formatted Download,https://jira.equilar.com/rest/api/latest/issue/40447,Resolved
+IN-2156,llu,Failed to getRfrDoubleOrig ,https://jira.equilar.com/rest/api/latest/issue/40696,In Progress
+IN-2187,vgarg,TCR Trueview charts are missing from the reports page,https://jira.equilar.com/rest/api/latest/issue/40770,Closed
+IN-2200,llu,LiMing & Menlo Scrum Meetings,https://jira.equilar.com/rest/api/latest/issue/40815,Closed
+IN-1541,sdash,load insight : proxy_calcs has a fatal error,https://jira.equilar.com/rest/api/latest/issue/36148,Closed
+IN-2090,tkasina,Regression Testing and Benchmark - SayOnPay O2P Stage,https://jira.equilar.com/rest/api/latest/issue/40302,Closed
+IN-2033,llu,Weekend Calc - proxy_board_calc - benchmark - too slow,https://jira.equilar.com/rest/api/latest/issue/39688,Closed
+IN-2009,VChunduri,Regression Bugs,https://jira.equilar.com/rest/api/latest/issue/39655,Closed
+IN-2014,SNeelakantam,Benchmarking,https://jira.equilar.com/rest/api/latest/issue/39668,Closed
+IN-1825,llu,[O2P] scripts - salesforce,https://jira.equilar.com/rest/api/latest/issue/38595,Resolved
+IN-2004,llu,Stock Info Change - Make Historical Stock Prices Available,https://jira.equilar.com/rest/api/latest/issue/39650,Resolved
+IN-2013,rvaranasi,Salesforce with Benchmark,https://jira.equilar.com/rest/api/latest/issue/39667,Closed
+IN-2089,ikho,Regression Testing and Benchmark - Beua O2P,https://jira.equilar.com/rest/api/latest/issue/40301,Closed
+IN-1915,vgarg,Converted query in CDASearchDAO is using positions  but positions searches a substring in a string ,https://jira.equilar.com/rest/api/latest/issue/39119,Closed
+IN-1964,llu,Worked on Story #iN - 1913 ( [O2P] Removing OLD TCR ),https://jira.equilar.com/rest/api/latest/issue/39457,Resolved
+IN-1898,llu,[O2P] Migrate Peer Group Portal,https://jira.equilar.com/rest/api/latest/issue/38914,Resolved
+IN-1975,llu,Worked on Bug #IN - 1901 ( Board Compensation Formatted Download Corrupt for AAPL ),https://jira.equilar.com/rest/api/latest/issue/39527,Resolved
+IN-2050,schau,Tech Support,https://jira.equilar.com/rest/api/latest/issue/39881,Closed
+IN-1919,rvaranasi,If ""Give equal weightings"" is 'N' in old tcr settings  then users cannot run survey only reports in new TCR,https://jira.equilar.com/rest/api/latest/issue/39132,Closed
+IN-2182,llu,Director Index tab shows N/A's in Board Fees Report.,https://jira.equilar.com/rest/api/latest/issue/40732,Resolved
+IN-2092,llu,Privacy Policy on email pop up window is navigating to 404 Error page,https://jira.equilar.com/rest/api/latest/issue/40311,Resolved
+IN-2084,svangala,Testing Insight Calc -Benchmarking,https://jira.equilar.com/rest/api/latest/issue/40247,Closed
+IN-2010,rvaranasi,Regression Testing,https://jira.equilar.com/rest/api/latest/issue/39656,Closed
+IN-2185,llu,""Privacy Policy"" in Say on Pay failed email popup doesn't exist,https://jira.equilar.com/rest/api/latest/issue/40754,Resolved
+IN-2186,llu,""Learn More"" link in Say on Pay Equilar Market peers popup doesn't exist,https://jira.equilar.com/rest/api/latest/issue/40759,Resolved

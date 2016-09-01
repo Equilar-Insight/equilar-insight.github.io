@@ -1,10 +1,11 @@
 Key,Assignee,Summary,Link,Status
-IN-2220,sgopalam,[SEC Realizable Pay] P4P Download: SEC TSR-Pay Graph,https://jira.equilar.com/rest/api/latest/issue/41015,In Progress
-IN-2223,vgolakoti,Fix the Survey Company Aging Script,https://jira.equilar.com/rest/api/latest/issue/41018,In Progress
-IN-2243,llu,LiMing & Menlo Scrum Meetings,https://jira.equilar.com/rest/api/latest/issue/41040,In Progress
-IN-2249,null,Worked on Analyzing and Reviewing Sprint #88 Stories for Point Estimates,https://jira.equilar.com/rest/api/latest/issue/41047,In Progress
-IN-2247,null,Test case authoring for the story IN- 2225,https://jira.equilar.com/rest/api/latest/issue/41045,In Progress
-IN-2248,null,Test case authoring for the story IN -2221,https://jira.equilar.com/rest/api/latest/issue/41046,In Progress
-IN-2225,null,Refactor New TCR - Search and Download (Speed Increase),https://jira.equilar.com/rest/api/latest/issue/41020,Open
-IN-2222,sgudiseva,Exchange Rate Conversion Logic Retouch in New TCR,https://jira.equilar.com/rest/api/latest/issue/41017,In Progress
-IN-2245,vgarg,Test Case Authoring,https://jira.equilar.com/rest/api/latest/issue/41043,Test Case In Review
+IN-2218,sgopalam,[User home dashboard] Improvements,https://jira.equilar.com/rest/api/latest/issue/41013,In Progress
+IN-2156,llu,Failed to getRfrDoubleOrig ,https://jira.equilar.com/rest/api/latest/issue/40696,In Code Review
+IN-2187,VChunduri,TCR Trueview charts are missing from the reports page,https://jira.equilar.com/rest/api/latest/issue/40770,Open
+IN-2253,llu,PSQLException: ERROR: syntax error at or near ""exec"",https://jira.equilar.com/rest/api/latest/issue/41058,In QA
+IN-2226,SNeelakantam,Replace Adobe Flash Player with Other Technology,https://jira.equilar.com/rest/api/latest/issue/41021,In Progress
+IN-2246,vgarg,Test Case Authoring,https://jira.equilar.com/rest/api/latest/issue/41044,Test Case In Progress
+IN-2256,null,Test case authoring for the story IN-2222,https://jira.equilar.com/rest/api/latest/issue/41121,Test Case In Progress
+IN-2247,llu,Test case authoring for the story IN- 2225,https://jira.equilar.com/rest/api/latest/issue/41045,In Code Review
+IN-2221,sdash,[SEC Realizable Pay] Pension - Years of Credited Service,https://jira.equilar.com/rest/api/latest/issue/41016,In Progress
+IN-2227,vgolakoti,Switch to New Mailman,https://jira.equilar.com/rest/api/latest/issue/41022,In Progress

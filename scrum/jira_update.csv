@@ -1,11 +1,4 @@
 Key,Assignee,Summary,Link,Status
-IN-2218,sgopalam,[User home dashboard] Improvements,https://jira.equilar.com/rest/api/latest/issue/41013,In Progress
-IN-2156,llu,Failed to getRfrDoubleOrig ,https://jira.equilar.com/rest/api/latest/issue/40696,In Code Review
-IN-2187,VChunduri,TCR Trueview charts are missing from the reports page,https://jira.equilar.com/rest/api/latest/issue/40770,Open
-IN-2253,llu,PSQLException: ERROR: syntax error at or near ""exec"",https://jira.equilar.com/rest/api/latest/issue/41058,In QA
-IN-2226,SNeelakantam,Replace Adobe Flash Player with Other Technology,https://jira.equilar.com/rest/api/latest/issue/41021,In Progress
-IN-2246,vgarg,Test Case Authoring,https://jira.equilar.com/rest/api/latest/issue/41044,Test Case In Progress
-IN-2256,null,Test case authoring for the story IN-2222,https://jira.equilar.com/rest/api/latest/issue/41121,Test Case In Progress
-IN-2247,llu,Test case authoring for the story IN- 2225,https://jira.equilar.com/rest/api/latest/issue/41045,In Code Review
-IN-2221,sdash,[SEC Realizable Pay] Pension - Years of Credited Service,https://jira.equilar.com/rest/api/latest/issue/41016,In Progress
-IN-2227,vgolakoti,Switch to New Mailman,https://jira.equilar.com/rest/api/latest/issue/41022,In Progress
+IN-2262,ryang,[Automation] Help,https://jira.equilar.com/rest/api/latest/issue/41150,In Progress
+IN-2261,ryang,[Automation] Page Footer,https://jira.equilar.com/rest/api/latest/issue/41149,In Progress
+IN-2258,ryang,[Automation] Settings - User Settings,https://jira.equilar.com/rest/api/latest/issue/41146,In Progress

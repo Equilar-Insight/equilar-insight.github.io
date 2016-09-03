@@ -1,4 +1,5 @@
 Key,Assignee,Summary,Link,Status
-IN-2262,ryang,[Automation] Help,https://jira.equilar.com/rest/api/latest/issue/41150,In Progress
-IN-2261,ryang,[Automation] Page Footer,https://jira.equilar.com/rest/api/latest/issue/41149,In Progress
-IN-2258,ryang,[Automation] Settings - User Settings,https://jira.equilar.com/rest/api/latest/issue/41146,In Progress
+IN-2257,llu,Not properly filtering out peer groups in COMP TRACKER emails,https://jira.equilar.com/rest/api/latest/issue/41129,Resolved
+IN-2263,llu,Mismatching TCR values,https://jira.equilar.com/rest/api/latest/issue/41152,Closed
+IN-2267,llu,RT_BONUS_PAYOUTS_CALC columns have null values.,https://jira.equilar.com/rest/api/latest/issue/41191,In QA
+IN-2264,null,LiMing & Song 1:1 Meeting,https://jira.equilar.com/rest/api/latest/issue/41166,In Progress

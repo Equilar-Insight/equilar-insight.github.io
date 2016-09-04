@@ -1,5 +1,3 @@
 Key,Assignee,Summary,Link,Status
-IN-2257,llu,Not properly filtering out peer groups in COMP TRACKER emails,https://jira.equilar.com/rest/api/latest/issue/41129,Resolved
-IN-2263,llu,Mismatching TCR values,https://jira.equilar.com/rest/api/latest/issue/41152,Closed
-IN-2267,llu,RT_BONUS_PAYOUTS_CALC columns have null values.,https://jira.equilar.com/rest/api/latest/issue/41191,In QA
-IN-2264,null,LiMing & Song 1:1 Meeting,https://jira.equilar.com/rest/api/latest/issue/41166,In Progress
+IN-2253,llu,PSQLException: ERROR: syntax error at or near ""exec"",https://jira.equilar.com/rest/api/latest/issue/41058,Resolved
+IN-2255,llu,Missing data in PPBAC and PMC,https://jira.equilar.com/rest/api/latest/issue/41108,Resolved

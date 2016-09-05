@@ -1,3 +1,1 @@
 Key,Assignee,Summary,Link,Status
-IN-2253,llu,PSQLException: ERROR: syntax error at or near ""exec"",https://jira.equilar.com/rest/api/latest/issue/41058,Resolved
-IN-2255,llu,Missing data in PPBAC and PMC,https://jira.equilar.com/rest/api/latest/issue/41108,Resolved

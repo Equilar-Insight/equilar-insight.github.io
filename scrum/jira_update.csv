@@ -1,5 +1,9 @@
 Key,Assignee,Summary,Link,Status
-IN-2225,vgolakoti,Refactor New TCR - Search and Download (Speed Increase),https://jira.equilar.com/rest/api/latest/issue/41020,In Progress
-IN-2272,null,O2P - Data verification On Stage ,https://jira.equilar.com/rest/api/latest/issue/41213,In Progress
-IN-2271,sgopalam,TeastCases review for Story #IN - 2218 ([User home dashboard] Improvements),https://jira.equilar.com/rest/api/latest/issue/41212,In Progress
-IN-2269,sdash,Testcase review for Story #IN-2221[SEC Realizable Pay] Pension - Years of Credited Service,https://jira.equilar.com/rest/api/latest/issue/41209,In Progress
+IN-2224,vgolakoti,Known Salesforce Issues - Sync Logic,https://jira.equilar.com/rest/api/latest/issue/41019,In Progress
+IN-2276,sgopalam,Proxy and Survey data is available individually but not in trueview,https://jira.equilar.com/rest/api/latest/issue/41265,In Progress
+IN-2277,sgopalam,No data found error,https://jira.equilar.com/rest/api/latest/issue/41278,In Progress
+IN-2187,sgopalam,TCR Trueview charts are missing from the reports page,https://jira.equilar.com/rest/api/latest/issue/40770,In Progress
+IN-2221,llu,[SEC Realizable Pay] Pension - Years of Credited Service,https://jira.equilar.com/rest/api/latest/issue/41016,In Code Review
+IN-2245,vgarg,Test Case Authoring,https://jira.equilar.com/rest/api/latest/issue/41043,Done
+IN-2246,vgarg,Test Case Authoring,https://jira.equilar.com/rest/api/latest/issue/41044,Done
+IN-2256,null,Test case authoring for the story IN-2222,https://jira.equilar.com/rest/api/latest/issue/41121,Test Case In Review

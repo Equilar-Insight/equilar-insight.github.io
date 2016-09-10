@@ -1,2 +1,5 @@
 Key,Assignee,Summary,Link,Status
-IN-2248,llu,Test case authoring for the story IN -2221,https://jira.equilar.com/rest/api/latest/issue/41046,In Code Review
+IN-2224,rvaranasi,Known Salesforce Issues - Sync Logic,https://jira.equilar.com/rest/api/latest/issue/41019,In QA
+IN-2223,rvaranasi,Fix the Survey Company Aging Script,https://jira.equilar.com/rest/api/latest/issue/41018,In QA
+IN-2221,svangala,[SEC Realizable Pay] Pension - Years of Credited Service,https://jira.equilar.com/rest/api/latest/issue/41016,In QA
+IN-2227,rvaranasi,Switch to New Mailman,https://jira.equilar.com/rest/api/latest/issue/41022,In QA

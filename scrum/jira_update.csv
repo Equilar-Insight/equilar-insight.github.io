@@ -1,2 +1,8 @@
 Key,Assignee,Summary,Link,Status
-IN-2221,svangala,[SEC Realizable Pay] Pension - Years of Credited Service,https://jira.equilar.com/rest/api/latest/issue/41016,Resolved
+IN-2220,llu,[SEC Realizable Pay] P4P Download: SEC TSR-Pay Graph,https://jira.equilar.com/rest/api/latest/issue/41015,In QA
+IN-2156,svangala,Failed to getRfrDoubleOrig ,https://jira.equilar.com/rest/api/latest/issue/40696,Resolved
+IN-2206,llu,PSQLException: This connection has been closed - ProxyCalcRunner,https://jira.equilar.com/rest/api/latest/issue/40865,In QA
+IN-2226,llu,Replace Adobe Flash Player with Other Technology,https://jira.equilar.com/rest/api/latest/issue/41021,In QA
+IN-2216,null,O2P Trouble Shooting,https://jira.equilar.com/rest/api/latest/issue/41011,In Progress
+IN-2284,llu,Test case authoring for the story - IN - 2220,https://jira.equilar.com/rest/api/latest/issue/41518,In Code Review
+IN-2273,null,Authoring test cases,https://jira.equilar.com/rest/api/latest/issue/41230,In Progress

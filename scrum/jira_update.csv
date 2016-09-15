@@ -1,6 +1,12 @@
 Key,Assignee,Summary,Link,Status
-IN-2226,llu,Replace Adobe Flash Player with Other Technology,https://jira.equilar.com/rest/api/latest/issue/41021,Waiting for Fix
-IN-2266,llu,[KnowledgeCenterAlertDAO.java:141] org.postgresql.util.PSQLException: Cannot commit when autoCommit is enabled,https://jira.equilar.com/rest/api/latest/issue/41176,In QA
-IN-2283,llu,Failures in Load-Pronto Exec,https://jira.equilar.com/rest/api/latest/issue/41318,In QA
-IN-2273,null,Authoring test cases,https://jira.equilar.com/rest/api/latest/issue/41230,Closed
-IN-2287,rvaranasi,Authoring test cases,https://jira.equilar.com/rest/api/latest/issue/41580,Closed
+IN-2218,vgarg,[User home dashboard] Improvements,https://jira.equilar.com/rest/api/latest/issue/41013,Resolved
+IN-2220,svangala,[SEC Realizable Pay] P4P Download: SEC TSR-Pay Graph,https://jira.equilar.com/rest/api/latest/issue/41015,Resolved
+IN-2236,null,Help,https://jira.equilar.com/rest/api/latest/issue/41031,Closed
+IN-2235,null,Page Footer,https://jira.equilar.com/rest/api/latest/issue/41030,Closed
+IN-2234,null,Settings - Saved Queries,https://jira.equilar.com/rest/api/latest/issue/41029,Closed
+IN-2233,null,Settings - Email alerts,https://jira.equilar.com/rest/api/latest/issue/41028,Closed
+IN-2232,null,Settings - User Settings,https://jira.equilar.com/rest/api/latest/issue/41027,Closed
+IN-2241,dkoa,Reports/dashboard for SP team,https://jira.equilar.com/rest/api/latest/issue/41036,In Progress
+IN-2239,null,WIG report automation,https://jira.equilar.com/rest/api/latest/issue/41034,In Progress
+IN-2225,llu,Spike - Refactor New TCR - Search and Download (Speed Increase),https://jira.equilar.com/rest/api/latest/issue/41020,In Progress
+IN-2288,svangala,Authoring test cases,https://jira.equilar.com/rest/api/latest/issue/41581,In Progress

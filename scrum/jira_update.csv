@@ -1,12 +1,9 @@
 Key,Assignee,Summary,Link,Status
-IN-2218,vgarg,[User home dashboard] Improvements,https://jira.equilar.com/rest/api/latest/issue/41013,Resolved
-IN-2220,svangala,[SEC Realizable Pay] P4P Download: SEC TSR-Pay Graph,https://jira.equilar.com/rest/api/latest/issue/41015,Resolved
-IN-2236,null,Help,https://jira.equilar.com/rest/api/latest/issue/41031,Closed
-IN-2235,null,Page Footer,https://jira.equilar.com/rest/api/latest/issue/41030,Closed
-IN-2234,null,Settings - Saved Queries,https://jira.equilar.com/rest/api/latest/issue/41029,Closed
-IN-2233,null,Settings - Email alerts,https://jira.equilar.com/rest/api/latest/issue/41028,Closed
-IN-2232,null,Settings - User Settings,https://jira.equilar.com/rest/api/latest/issue/41027,Closed
-IN-2241,dkoa,Reports/dashboard for SP team,https://jira.equilar.com/rest/api/latest/issue/41036,In Progress
-IN-2239,null,WIG report automation,https://jira.equilar.com/rest/api/latest/issue/41034,In Progress
-IN-2225,llu,Spike - Refactor New TCR - Search and Download (Speed Increase),https://jira.equilar.com/rest/api/latest/issue/41020,In Progress
-IN-2288,svangala,Authoring test cases,https://jira.equilar.com/rest/api/latest/issue/41581,In Progress
+IN-2224,rvaranasi,Known Salesforce Issues - Sync Logic,https://jira.equilar.com/rest/api/latest/issue/41019,Resolved
+IN-2308,llu,email_queue table is not updated when a mail is sent,https://jira.equilar.com/rest/api/latest/issue/41731,In Code Review
+IN-2072,llu,Different Exchange Rates Are Used In One TCR Download,https://jira.equilar.com/rest/api/latest/issue/40088,Resolved
+IN-2239,dkoa,WIG report automation,https://jira.equilar.com/rest/api/latest/issue/41034,Closed
+IN-2283,llu,Failures in Load-Pronto Exec,https://jira.equilar.com/rest/api/latest/issue/41318,Resolved
+IN-2076,llu,LoadCompany.java  LoadExecutive.java  LoadPde.java is using rownum,https://jira.equilar.com/rest/api/latest/issue/40232,Resolved
+IN-2227,rvaranasi,Switch to New Mailman,https://jira.equilar.com/rest/api/latest/issue/41022,Waiting for Fix
+IN-2265,null,O2P - hotfix - release_87.0.3,https://jira.equilar.com/rest/api/latest/issue/41167,Closed

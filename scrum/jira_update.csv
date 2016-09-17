@@ -1,9 +1,27 @@
 Key,Assignee,Summary,Link,Status
-IN-2224,rvaranasi,Known Salesforce Issues - Sync Logic,https://jira.equilar.com/rest/api/latest/issue/41019,Resolved
-IN-2308,llu,email_queue table is not updated when a mail is sent,https://jira.equilar.com/rest/api/latest/issue/41731,In Code Review
-IN-2072,llu,Different Exchange Rates Are Used In One TCR Download,https://jira.equilar.com/rest/api/latest/issue/40088,Resolved
-IN-2239,dkoa,WIG report automation,https://jira.equilar.com/rest/api/latest/issue/41034,Closed
-IN-2283,llu,Failures in Load-Pronto Exec,https://jira.equilar.com/rest/api/latest/issue/41318,Resolved
-IN-2076,llu,LoadCompany.java  LoadExecutive.java  LoadPde.java is using rownum,https://jira.equilar.com/rest/api/latest/issue/40232,Resolved
-IN-2227,rvaranasi,Switch to New Mailman,https://jira.equilar.com/rest/api/latest/issue/41022,Waiting for Fix
-IN-2265,null,O2P - hotfix - release_87.0.3,https://jira.equilar.com/rest/api/latest/issue/41167,Closed
+IN-2223,rvaranasi,Fix the Survey Company Aging Script,https://jira.equilar.com/rest/api/latest/issue/41018,Resolved
+IN-2308,llu,email_queue table is not updated when a mail is sent,https://jira.equilar.com/rest/api/latest/issue/41731,Resolved
+IN-2276,llu,Proxy and Survey data is available individually but not in trueview,https://jira.equilar.com/rest/api/latest/issue/41265,Resolved
+IN-2258,ryang,[Automation] Settings - User Settings,https://jira.equilar.com/rest/api/latest/issue/41146,Closed
+IN-2261,ryang,[Automation] Page Footer,https://jira.equilar.com/rest/api/latest/issue/41149,Closed
+IN-2262,ryang,[Automation] Help,https://jira.equilar.com/rest/api/latest/issue/41150,Closed
+IN-2260,ryang,[Automation] Settings - Saved Queries,https://jira.equilar.com/rest/api/latest/issue/41148,Closed
+IN-2217,llu,Survey Summary Report Download Limit,https://jira.equilar.com/rest/api/latest/issue/41012,In QA
+IN-2240,dkoa,SSP report,https://jira.equilar.com/rest/api/latest/issue/41035,In Progress
+IN-2228,null,Survey Knowledge Transfer,https://jira.equilar.com/rest/api/latest/issue/41023,In Progress
+IN-2243,llu,Sprint 88 - LiMing & Menlo Scrum Meetings,https://jira.equilar.com/rest/api/latest/issue/41040,In Code Review
+IN-2251,llu,Monitor Prod system and check for error,https://jira.equilar.com/rest/api/latest/issue/41053,In Code Review
+IN-2216,llu,O2P Trouble Shooting,https://jira.equilar.com/rest/api/latest/issue/41011,In Code Review
+IN-2306,llu,Cannot Download Survey Summary Report,https://jira.equilar.com/rest/api/latest/issue/41717,Resolved
+IN-2264,llu,Sprint 88 - LiMing Tasks,https://jira.equilar.com/rest/api/latest/issue/41166,In Code Review
+IN-2318,ryang,Other tasks or traffo for time track,https://jira.equilar.com/rest/api/latest/issue/41800,Closed
+IN-2288,svangala,Authoring test cases,https://jira.equilar.com/rest/api/latest/issue/41581,Closed
+IN-2227,rvaranasi,Switch to New Mailman,https://jira.equilar.com/rest/api/latest/issue/41022,Closed
+IN-2317,ryang,HotFix Support,https://jira.equilar.com/rest/api/latest/issue/41799,Closed
+IN-2316,ryang,Shadow Liming during his vacation,https://jira.equilar.com/rest/api/latest/issue/41798,Closed
+IN-2305,llu,If you upload a PDF  delete it  and upload another PDF with the same name  you get an error,https://jira.equilar.com/rest/api/latest/issue/41712,In QA
+IN-2252,llu,Add new users as TOTAL_COMP_REPORT_ADMINS,https://jira.equilar.com/rest/api/latest/issue/41056,Resolved
+IN-2250,llu,Opt Over Calcs script failing due to TRUNC(? ?),https://jira.equilar.com/rest/api/latest/issue/41049,Resolved
+IN-2309,svangala,Stage Regression,https://jira.equilar.com/rest/api/latest/issue/41771,In QA
+IN-2289,llu,Graph and charts does not come for P4P module in IE.,https://jira.equilar.com/rest/api/latest/issue/41607,In QA
+IN-2225,llu,Spike - Refactor New TCR - Search and Download (Speed Increase),https://jira.equilar.com/rest/api/latest/issue/41020,Closed

@@ -1,2 +1,24 @@
 Key,Assignee,Summary,Link,Status
-IN-2315,sgopalam,Download PDF Survey Summary Report Button Label Malfunction,https://jira.equilar.com/rest/api/latest/issue/41795,In Progress
+IN-2206,llu,PSQLException: This connection has been closed - ProxyCalcRunner,https://jira.equilar.com/rest/api/latest/issue/40865,Resolved
+IN-2228,ikho,Survey Knowledge Transfer,https://jira.equilar.com/rest/api/latest/issue/41023,Reopened
+IN-2240,llu,SSP report,https://jira.equilar.com/rest/api/latest/issue/41035,Resolved
+IN-2241,llu,Reports/dashboard for SP team,https://jira.equilar.com/rest/api/latest/issue/41036,Resolved
+IN-2226,llu,Replace Adobe Flash Player with Other Technology,https://jira.equilar.com/rest/api/latest/issue/41021,Resolved
+IN-2251,llu,Monitor Prod system and check for error,https://jira.equilar.com/rest/api/latest/issue/41053,Resolved
+IN-2243,llu,Sprint 88 - LiMing & Menlo Scrum Meetings,https://jira.equilar.com/rest/api/latest/issue/41040,Resolved
+IN-2216,llu,O2P Trouble Shooting,https://jira.equilar.com/rest/api/latest/issue/41011,Resolved
+IN-2264,llu,Sprint 88 - LiMing Tasks,https://jira.equilar.com/rest/api/latest/issue/41166,Resolved
+IN-2309,svangala,Stage Regression,https://jira.equilar.com/rest/api/latest/issue/41771,Resolved
+IN-2249,null,Worked on Analyzing and Reviewing Sprint #88 Stories for Point Estimates,https://jira.equilar.com/rest/api/latest/issue/41047,Closed
+IN-2272,null,O2P - Data verification On Stage ,https://jira.equilar.com/rest/api/latest/issue/41213,Closed
+IN-2267,llu,RT_BONUS_PAYOUTS_CALC columns have null values.,https://jira.equilar.com/rest/api/latest/issue/41191,Resolved
+IN-2266,llu,[KnowledgeCenterAlertDAO.java:141] org.postgresql.util.PSQLException: Cannot commit when autoCommit is enabled,https://jira.equilar.com/rest/api/latest/issue/41176,Resolved
+IN-2325,null,IN-2217 Test Cases,https://jira.equilar.com/rest/api/latest/issue/41930,Closed
+IN-2305,llu,If you upload a PDF  delete it  and upload another PDF with the same name  you get an error,https://jira.equilar.com/rest/api/latest/issue/41712,Resolved
+IN-2247,llu,Test case authoring for the story IN- 2225,https://jira.equilar.com/rest/api/latest/issue/41045,Resolved
+IN-2285,sgopalam,TestCases review for Story #IN - 2220 ([SEC Realizable Pay] P4P Download: SEC TSR-Pay Graph),https://jira.equilar.com/rest/api/latest/issue/41519,Resolved
+IN-2269,sdash,Testcase review for Story #IN-2221[SEC Realizable Pay] Pension - Years of Credited Service,https://jira.equilar.com/rest/api/latest/issue/41209,Closed
+IN-2248,llu,Test case authoring for the story IN -2221,https://jira.equilar.com/rest/api/latest/issue/41046,Resolved
+IN-2284,llu,Test case authoring for the story - IN - 2220,https://jira.equilar.com/rest/api/latest/issue/41518,Resolved
+IN-2271,sgopalam,TestCases review for Story #IN - 2218 ([User home dashboard] Improvements),https://jira.equilar.com/rest/api/latest/issue/41212,Closed
+IN-2270,SNeelakantam,Testcases review for Story #IN-2226 (Replace Adobe Flash Player with Other Technology) ,https://jira.equilar.com/rest/api/latest/issue/41211,Resolved

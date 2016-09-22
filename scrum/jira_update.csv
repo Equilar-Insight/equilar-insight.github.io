@@ -1,6 +1,6 @@
 Key,Assignee,Summary,Link,Status
-IN-2217,llu,Survey Summary Report Download Limit,https://jira.equilar.com/rest/api/latest/issue/41012,Resolved
-IN-2297,sgopalam,[SSP Email Alerts] Clean up formatting of SSP email alerts to clients,https://jira.equilar.com/rest/api/latest/issue/41648,In Progress
-IN-2340,null,Test case authoring for the story ,https://jira.equilar.com/rest/api/latest/issue/42064,Test Case In Review
-IN-2326,null,Test  case authoring for the story IN -2299,https://jira.equilar.com/rest/api/latest/issue/41944,Test Case In Review
-IN-2339,null,Menlo scrum meeting,https://jira.equilar.com/rest/api/latest/issue/42054,In Progress
+IN-2332,dkoa,Google Analytics [TCR Download Graph] ,https://jira.equilar.com/rest/api/latest/issue/42038,In Progress
+IN-2301,sdash,[Pen Test] CWE-526: Information Exposure Through Environmental Variables - Survey,https://jira.equilar.com/rest/api/latest/issue/41664,In Progress
+IN-2268,null,Time tracking on other tasks except stories,https://jira.equilar.com/rest/api/latest/issue/41195,In Progress
+IN-2341,null,Incorporating test cases as per specs updated - Sprint 89,https://jira.equilar.com/rest/api/latest/issue/42143,Test Case In Progress
+IN-2298,null,[Tagger ETL] Insight Diagnostic Dashboard,https://jira.equilar.com/rest/api/latest/issue/41649,In Progress

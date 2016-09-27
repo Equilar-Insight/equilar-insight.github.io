@@ -1,2 +1,4 @@
 Key,Assignee,Summary,Link,Status
-IN-2343,llu,[Hotfix] - Total Dividends Are Off When Running TSR With Peer Groups,https://jira.equilar.com/rest/api/latest/issue/42243,In Progress
+IN-2345,null,[Regression] : ISS look forward model is not showing the options for fy = 0,https://jira.equilar.com/rest/api/latest/issue/42284,In Progress
+IN-2344,llu,[Regression] - Missing Performance Equity in ISS and CB Realizable Pay,https://jira.equilar.com/rest/api/latest/issue/42283,In Progress
+IN-2346,null, Review Refactor New TCR Run Report Test Cases,https://jira.equilar.com/rest/api/latest/issue/42309,In Progress

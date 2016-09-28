@@ -1,4 +1,7 @@
 Key,Assignee,Summary,Link,Status
-IN-2345,null,[Regression] : ISS look forward model is not showing the options for fy = 0,https://jira.equilar.com/rest/api/latest/issue/42284,In Progress
-IN-2344,llu,[Regression] - Missing Performance Equity in ISS and CB Realizable Pay,https://jira.equilar.com/rest/api/latest/issue/42283,In Progress
-IN-2346,null, Review Refactor New TCR Run Report Test Cases,https://jira.equilar.com/rest/api/latest/issue/42309,In Progress
+IN-2219,llu,[GL Model] Update Cash Flows Metric for GICS Change Effective September 1  2016,https://jira.equilar.com/rest/api/latest/issue/41014,In QA
+IN-2343,llu,[Regression O2P] - Total Dividends Are Off When Running TSR With Peer Groups,https://jira.equilar.com/rest/api/latest/issue/42243,In QA
+IN-2345,llu,[Regression O2P] : ISS look forward model is not showing the options for fy = 0,https://jira.equilar.com/rest/api/latest/issue/42284,In QA
+IN-2312,SNeelakantam,[Pen Test] Transmission of Private Resources into a New Sphere ('Resource Leak') (CWE ID 402) - Survey,https://jira.equilar.com/rest/api/latest/issue/41790,In Progress
+IN-2344,llu,[Regression] - Missing Performance Equity in ISS and CB Realizable Pay,https://jira.equilar.com/rest/api/latest/issue/42283,In QA
+IN-2330,llu,Weekend calc - Master Management - too slow - 29 v.s. 6 h,https://jira.equilar.com/rest/api/latest/issue/42010,In QA

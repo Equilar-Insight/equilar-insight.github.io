@@ -1,6 +1,7 @@
 Key,Assignee,Summary,Link,Status
-IN-2345,svangala,[Regression O2P] : ISS look forward model is not showing the options for fy = 0,https://jira.equilar.com/rest/api/latest/issue/42284,Resolved
-IN-2333,llu,Time-Out Issue When Running TCR Report With Increased Limits,https://jira.equilar.com/rest/api/latest/issue/42039,Closed
-IN-2344,svangala,[Regression] - Missing Performance Equity in ISS and CB Realizable Pay,https://jira.equilar.com/rest/api/latest/issue/42283,Resolved
-IN-2297,llu,[SSP Email Alerts] Clean up formatting of SSP email alerts to clients,https://jira.equilar.com/rest/api/latest/issue/41648,In Code Review
-IN-2348,sdash,Missing Performance Equity in ISS and CB Realizable Pay for RAD,https://jira.equilar.com/rest/api/latest/issue/42380,In Progress
+IN-2343,vgarg,[Regression O2P] - Total Dividends Are Off When Running TSR With Peer Groups,https://jira.equilar.com/rest/api/latest/issue/42243,Resolved
+IN-2350,llu,Data is not updated into master_management_calc table after running master_management_calc script ,https://jira.equilar.com/rest/api/latest/issue/42408,In Code Review
+IN-2330,llu,Weekend calc - Master Management - too slow - 29 v.s. 6 h,https://jira.equilar.com/rest/api/latest/issue/42010,Waiting for Fix
+IN-2297,llu,[SSP Email Alerts] Clean up formatting of SSP email alerts to clients,https://jira.equilar.com/rest/api/latest/issue/41648,In QA
+IN-2289,llu,Graph and charts does not come for P4P module in IE.,https://jira.equilar.com/rest/api/latest/issue/41607,Resolved
+IN-2348,sdash,Missing Performance Equity in ISS and CB Realizable Pay for RAD,https://jira.equilar.com/rest/api/latest/issue/42380,Closed

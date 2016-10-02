@@ -1,8 +1,1 @@
 Key,Assignee,Summary,Link,Status
-IN-2322,llu,[Pen. Test] Survey security flaws - Use of a Broken or Risky Cryptographic Algorithm (CWE ID 327),https://jira.equilar.com/rest/api/latest/issue/41854,Closed
-IN-2352,dkoa,Equilar Subscription,https://jira.equilar.com/rest/api/latest/issue/42585,In Progress
-IN-2309,svangala,Stage Regression,https://jira.equilar.com/rest/api/latest/issue/41771,Reopened
-IN-2349,llu,Authoring test cases,https://jira.equilar.com/rest/api/latest/issue/42392,In Code Review
-IN-2350,llu,Data is not updated into master_management_calc table after running master_management_calc script ,https://jira.equilar.com/rest/api/latest/issue/42408,In QA
-IN-2342,vgarg,Test case Authoring for the story IN-2337,https://jira.equilar.com/rest/api/latest/issue/42208,Test Case In Review
-IN-2327,vgarg,Test case Authoring for the story IN-2304.,https://jira.equilar.com/rest/api/latest/issue/41945,Test Case In Review

@@ -1,1 +1,3 @@
 Key,Assignee,Summary,Link,Status
+IN-2353,llu,Allow all account types to access publications,https://jira.equilar.com/rest/api/latest/issue/42619,In QA
+IN-2290,llu,[DB Design] - N-PX DB Tables,https://jira.equilar.com/rest/api/latest/issue/41637,In Progress

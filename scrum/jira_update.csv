@@ -1,3 +1,8 @@
 Key,Assignee,Summary,Link,Status
-IN-2353,llu,Allow all account types to access publications,https://jira.equilar.com/rest/api/latest/issue/42619,In QA
-IN-2290,llu,[DB Design] - N-PX DB Tables,https://jira.equilar.com/rest/api/latest/issue/41637,In Progress
+IN-2336,llu,[Automation] UserSetting - Product Access,https://jira.equilar.com/rest/api/latest/issue/42042,In Code Review
+IN-2351,llu,Missing enum for DOJ_Free in BEUA,https://jira.equilar.com/rest/api/latest/issue/42581,In QA
+IN-2259,ryang,[Automation] Settings - Email alerts,https://jira.equilar.com/rest/api/latest/issue/41147,Closed
+IN-2347,ryang,Vanguard - 5 years of new TCR data ,https://jira.equilar.com/rest/api/latest/issue/42361,In Progress
+IN-2354,llu,Column Mislabeled in P4P Download,https://jira.equilar.com/rest/api/latest/issue/42682,In Code Review
+IN-2297,llu,[SSP Email Alerts] Clean up formatting of SSP email alerts to clients,https://jira.equilar.com/rest/api/latest/issue/41648,In QA
+IN-2335,ryang,[Automation] UserSetting - Email Alerts,https://jira.equilar.com/rest/api/latest/issue/42041,In Progress

@@ -1,8 +1,13 @@
 Key,Assignee,Summary,Link,Status
-IN-2336,llu,[Automation] UserSetting - Product Access,https://jira.equilar.com/rest/api/latest/issue/42042,In Code Review
-IN-2351,llu,Missing enum for DOJ_Free in BEUA,https://jira.equilar.com/rest/api/latest/issue/42581,In QA
-IN-2259,ryang,[Automation] Settings - Email alerts,https://jira.equilar.com/rest/api/latest/issue/41147,Closed
-IN-2347,ryang,Vanguard - 5 years of new TCR data ,https://jira.equilar.com/rest/api/latest/issue/42361,In Progress
-IN-2354,llu,Column Mislabeled in P4P Download,https://jira.equilar.com/rest/api/latest/issue/42682,In Code Review
-IN-2297,llu,[SSP Email Alerts] Clean up formatting of SSP email alerts to clients,https://jira.equilar.com/rest/api/latest/issue/41648,In QA
-IN-2335,ryang,[Automation] UserSetting - Email Alerts,https://jira.equilar.com/rest/api/latest/issue/42041,In Progress
+IN-2312,llu,[Pen Test] Survey security flaws - Transmission of Private Resources into a New Sphere ('Resource Leak') (CWE ID 402),https://jira.equilar.com/rest/api/latest/issue/41790,In QA
+IN-2295,llu,[Pen Test] Information Exposure Through Directory Listing  (CWE ID 548) - Survey & Insight,https://jira.equilar.com/rest/api/latest/issue/41646,Resolved
+IN-2319,SNeelakantam,[Pen. Test] Insight security flaws -  Cross-Site Scripting - Improper Neutralization of Script in Attributes in a Web Page (CWE ID 83),https://jira.equilar.com/rest/api/latest/issue/41848,In Progress
+IN-2323,llu,[Pen. Test] Survey security flaws - Session Fixation - (CWE ID 384),https://jira.equilar.com/rest/api/latest/issue/41855,In Code Review
+IN-2347,llu,Vanguard - 5 years of new TCR data ,https://jira.equilar.com/rest/api/latest/issue/42361,In Code Review
+IN-2336,llu,[Automation] UserSetting - Product Access,https://jira.equilar.com/rest/api/latest/issue/42042,In QA
+IN-2350,svangala,Data is not updated into master_management_calc table after running master_management_calc script ,https://jira.equilar.com/rest/api/latest/issue/42408,Resolved
+IN-2307,sgudiseva,Towers Watson Custom Template Doesn't Run for Anthem,https://jira.equilar.com/rest/api/latest/issue/41727,In Progress
+IN-2313,SNeelakantam,[Pen test] Survey security flaws -  Protection Mechanism Failure (CWE ID 693),https://jira.equilar.com/rest/api/latest/issue/41791,In Progress
+IN-2320,SNeelakantam,[Pen. Test] Insight security flaws - Protection Mechanism Failure (CWE ID 693),https://jira.equilar.com/rest/api/latest/issue/41851,In Progress
+IN-2321,SNeelakantam,[Pen. Test] Insight security flaws - File and Directory Information Exposure (CWE ID 538),https://jira.equilar.com/rest/api/latest/issue/41852,In Progress
+IN-2354,llu,Column Mislabeled in P4P Download,https://jira.equilar.com/rest/api/latest/issue/42682,In QA

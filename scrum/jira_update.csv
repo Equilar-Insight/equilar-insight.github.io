@@ -1,10 +1,15 @@
 Key,Assignee,Summary,Link,Status
+IN-2351,llu,Missing enum for DOJ_Free in BEUA,https://jira.equilar.com/rest/api/latest/issue/42581,Resolved
+IN-2356,llu,Currency conversion is applied in Download Report when the Company and  original currency is CAD,https://jira.equilar.com/rest/api/latest/issue/42756,In Code Review
 IN-2347,llu,Vanguard - 5 years of new TCR data ,https://jira.equilar.com/rest/api/latest/issue/42361,In QA
 IN-2323,llu,[Pen. Test] Survey security flaws - Session Fixation - (CWE ID 384),https://jira.equilar.com/rest/api/latest/issue/41855,In QA
-IN-2336,ryang,[Automation] UserSetting - Product Access,https://jira.equilar.com/rest/api/latest/issue/42042,Resolved
+IN-2363,xzhang,Meetings,https://jira.equilar.com/rest/api/latest/issue/42834,Closed
+IN-2360,xzhang,AskPCM and Emails,https://jira.equilar.com/rest/api/latest/issue/42809,Closed
+IN-2359,xzhang,Sprint Planning,https://jira.equilar.com/rest/api/latest/issue/42808,Closed
+IN-2358,xzhang,Specs Writing,https://jira.equilar.com/rest/api/latest/issue/42807,Closed
+IN-2361,llu,Data is not seen in Compensation Summary tab after downloading the Pre-run review report ,https://jira.equilar.com/rest/api/latest/issue/42816,In Code Review
+IN-2355,svangala,SerializationExceptions are logged tomcat server log,https://jira.equilar.com/rest/api/latest/issue/42754,Resolved
 IN-2321,llu,[Pen. Test] Insight security flaws - File and Directory Information Exposure (CWE ID 538),https://jira.equilar.com/rest/api/latest/issue/41852,Resolved
 IN-2357,null,TSR_FY values does not matches for ASR and TSR,https://jira.equilar.com/rest/api/latest/issue/42757,In Progress
 IN-2301,llu,[Pen Test] CWE-526: Information Exposure Through Environmental Variables - Survey,https://jira.equilar.com/rest/api/latest/issue/41664,In Code Review
 IN-2354,llu,Column Mislabeled in P4P Download,https://jira.equilar.com/rest/api/latest/issue/42682,Resolved
-IN-2297,llu,[SSP Email Alerts] Clean up formatting of SSP email alerts to clients,https://jira.equilar.com/rest/api/latest/issue/41648,Waiting for Fix
-IN-2355,llu,SerializationExceptions are logged tomcat server log,https://jira.equilar.com/rest/api/latest/issue/42754,In Code Review

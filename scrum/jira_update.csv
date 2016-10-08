@@ -1,15 +1,4 @@
 Key,Assignee,Summary,Link,Status
-IN-2219,llu,[GL Model] Update Cash Flows Metric for GICS Change Effective September 1  2016,https://jira.equilar.com/rest/api/latest/issue/41014,Resolved
-IN-2356,llu,Currency conversion is applied in Download Report when the Company and  original currency is CAD,https://jira.equilar.com/rest/api/latest/issue/42756,In Code Review
-IN-2351,llu,Missing enum for DOJ_Free in BEUA,https://jira.equilar.com/rest/api/latest/issue/42581,Resolved
-IN-2330,llu,Weekend calc - Master Management - too slow - 29 v.s. 6 h,https://jira.equilar.com/rest/api/latest/issue/42010,Resolved
-IN-2366,xzhang,AskPCM  Emails and Templates,https://jira.equilar.com/rest/api/latest/issue/42861,Closed
-IN-2365,xzhang,Specs,https://jira.equilar.com/rest/api/latest/issue/42860,Closed
-IN-2364,xzhang,Meetings,https://jira.equilar.com/rest/api/latest/issue/42857,Closed
-IN-2335,llu,[Automation] UserSetting - Email Alerts,https://jira.equilar.com/rest/api/latest/issue/42041,In Code Review
-IN-2363,xzhang,Meetings,https://jira.equilar.com/rest/api/latest/issue/42834,Closed
-IN-2360,xzhang,AskPCM and Emails,https://jira.equilar.com/rest/api/latest/issue/42809,Closed
-IN-2359,xzhang,Sprint Planning,https://jira.equilar.com/rest/api/latest/issue/42808,Closed
-IN-2358,xzhang,Specs Writing,https://jira.equilar.com/rest/api/latest/issue/42807,Closed
-IN-2361,llu,Data is not seen in Compensation Summary tab after downloading the Pre-run review report ,https://jira.equilar.com/rest/api/latest/issue/42816,In Code Review
-IN-2355,svangala,SerializationExceptions are logged tomcat server log,https://jira.equilar.com/rest/api/latest/issue/42754,Resolved
+IN-2362,llu,Unable to change the status on the custom insight projects,https://jira.equilar.com/rest/api/latest/issue/42830,In QA
+IN-2361,llu,Data is not seen in Compensation Summary tab after downloading the Pre-run review report ,https://jira.equilar.com/rest/api/latest/issue/42816,In QA
+IN-2335,llu,[Automation] UserSetting - Email Alerts,https://jira.equilar.com/rest/api/latest/issue/42041,Resolved

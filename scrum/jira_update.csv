@@ -1,4 +1,1 @@
 Key,Assignee,Summary,Link,Status
-IN-2362,llu,Unable to change the status on the custom insight projects,https://jira.equilar.com/rest/api/latest/issue/42830,In QA
-IN-2361,llu,Data is not seen in Compensation Summary tab after downloading the Pre-run review report ,https://jira.equilar.com/rest/api/latest/issue/42816,In QA
-IN-2335,llu,[Automation] UserSetting - Email Alerts,https://jira.equilar.com/rest/api/latest/issue/42041,Resolved

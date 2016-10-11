@@ -1,2 +1,6 @@
 Key,Assignee,Summary,Link,Status
-IN-2297,llu,[SSP Email Alerts] Clean up formatting of SSP email alerts to clients,https://jira.equilar.com/rest/api/latest/issue/41648,Resolved
+IN-2293,xzhang,[Investigation & Simulation] - Separate EMPGs and GLPGs,https://jira.equilar.com/rest/api/latest/issue/41644,Closed
+IN-2371,xzhang,Emails,https://jira.equilar.com/rest/api/latest/issue/42961,Closed
+IN-2370,xzhang,Slides,https://jira.equilar.com/rest/api/latest/issue/42960,Closed
+IN-2369,xzhang,AskPCM Template Fix,https://jira.equilar.com/rest/api/latest/issue/42959,Closed
+IN-2368,xzhang,Meetings,https://jira.equilar.com/rest/api/latest/issue/42958,Closed

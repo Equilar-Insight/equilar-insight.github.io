@@ -1,6 +1,15 @@
 Key,Assignee,Summary,Link,Status
-IN-2293,xzhang,[Investigation & Simulation] - Separate EMPGs and GLPGs,https://jira.equilar.com/rest/api/latest/issue/41644,Closed
-IN-2371,xzhang,Emails,https://jira.equilar.com/rest/api/latest/issue/42961,Closed
-IN-2370,xzhang,Slides,https://jira.equilar.com/rest/api/latest/issue/42960,Closed
-IN-2369,xzhang,AskPCM Template Fix,https://jira.equilar.com/rest/api/latest/issue/42959,Closed
-IN-2368,xzhang,Meetings,https://jira.equilar.com/rest/api/latest/issue/42958,Closed
+IN-2379,llu,UI is messed up when clicked on the same annual cash bonus multiple times,https://jira.equilar.com/rest/api/latest/issue/43057,In Code Review
+IN-2362,llu,Unable to change the status on the custom insight projects,https://jira.equilar.com/rest/api/latest/issue/42830,In Progress
+IN-2312,llu,[Pen Test] Survey security flaws - Transmission of Private Resources into a New Sphere ('Resource Leak') (CWE ID 402),https://jira.equilar.com/rest/api/latest/issue/41790,Resolved
+IN-2356,llu,Currency conversion is applied in Download Report when the Company and  original currency is CAD,https://jira.equilar.com/rest/api/latest/issue/42756,In QA
+IN-2383,xzhang,Emails,https://jira.equilar.com/rest/api/latest/issue/43064,Closed
+IN-2382,xzhang,UAT,https://jira.equilar.com/rest/api/latest/issue/43063,Closed
+IN-2380,xzhang,AskPCM Investigation,https://jira.equilar.com/rest/api/latest/issue/43061,Closed
+IN-2381,xzhang,Meetings,https://jira.equilar.com/rest/api/latest/issue/43062,Closed
+IN-2301,llu,[Pen Test] CWE-526: Information Exposure Through Environmental Variables - Survey,https://jira.equilar.com/rest/api/latest/issue/41664,In QA
+IN-2376,xzhang,UAT,https://jira.equilar.com/rest/api/latest/issue/43023,Closed
+IN-2375,xzhang,Questions from Allen,https://jira.equilar.com/rest/api/latest/issue/43022,Closed
+IN-2374,xzhang,Form 4 Question,https://jira.equilar.com/rest/api/latest/issue/43021,Closed
+IN-2373,xzhang,GL Issue and Follow-Up,https://jira.equilar.com/rest/api/latest/issue/43020,Closed
+IN-2372,xzhang,Meetings,https://jira.equilar.com/rest/api/latest/issue/43019,Closed

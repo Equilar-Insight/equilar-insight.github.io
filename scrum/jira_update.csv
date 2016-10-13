@@ -1,15 +1,8 @@
 Key,Assignee,Summary,Link,Status
-IN-2379,llu,UI is messed up when clicked on the same annual cash bonus multiple times,https://jira.equilar.com/rest/api/latest/issue/43057,In Code Review
-IN-2362,llu,Unable to change the status on the custom insight projects,https://jira.equilar.com/rest/api/latest/issue/42830,In Progress
-IN-2312,llu,[Pen Test] Survey security flaws - Transmission of Private Resources into a New Sphere ('Resource Leak') (CWE ID 402),https://jira.equilar.com/rest/api/latest/issue/41790,Resolved
-IN-2356,llu,Currency conversion is applied in Download Report when the Company and  original currency is CAD,https://jira.equilar.com/rest/api/latest/issue/42756,In QA
-IN-2383,xzhang,Emails,https://jira.equilar.com/rest/api/latest/issue/43064,Closed
-IN-2382,xzhang,UAT,https://jira.equilar.com/rest/api/latest/issue/43063,Closed
-IN-2380,xzhang,AskPCM Investigation,https://jira.equilar.com/rest/api/latest/issue/43061,Closed
-IN-2381,xzhang,Meetings,https://jira.equilar.com/rest/api/latest/issue/43062,Closed
-IN-2301,llu,[Pen Test] CWE-526: Information Exposure Through Environmental Variables - Survey,https://jira.equilar.com/rest/api/latest/issue/41664,In QA
-IN-2376,xzhang,UAT,https://jira.equilar.com/rest/api/latest/issue/43023,Closed
-IN-2375,xzhang,Questions from Allen,https://jira.equilar.com/rest/api/latest/issue/43022,Closed
-IN-2374,xzhang,Form 4 Question,https://jira.equilar.com/rest/api/latest/issue/43021,Closed
-IN-2373,xzhang,GL Issue and Follow-Up,https://jira.equilar.com/rest/api/latest/issue/43020,Closed
-IN-2372,xzhang,Meetings,https://jira.equilar.com/rest/api/latest/issue/43019,Closed
+IN-2379,llu,UI is messed up when clicked on the same annual cash bonus multiple times,https://jira.equilar.com/rest/api/latest/issue/43057,Resolved
+IN-2319,llu,[Pen. Test] Insight security flaws -  Cross-Site Scripting - Improper Neutralization of Script in Attributes in a Web Page (CWE ID 83),https://jira.equilar.com/rest/api/latest/issue/41848,In Code Review
+IN-2378,llu,Exchange Rate Conversion Are Not Converted Under Certain Situation,https://jira.equilar.com/rest/api/latest/issue/43053,In Code Review
+IN-2377,sgudiseva,Exchange Rate Conversion - Appendix - Report 10102016-01 tab,https://jira.equilar.com/rest/api/latest/issue/43050,In Progress
+IN-2356,svangala,Currency conversion is applied in Download Report when the Company and  original currency is CAD,https://jira.equilar.com/rest/api/latest/issue/42756,Resolved
+IN-2361,svangala,Data is not seen in Compensation Summary tab after downloading the Pre-run review report ,https://jira.equilar.com/rest/api/latest/issue/42816,Resolved
+IN-2367,SNeelakantam,Null pointer exception is logged and reports fails to run in New TCR.,https://jira.equilar.com/rest/api/latest/issue/42879,In Progress

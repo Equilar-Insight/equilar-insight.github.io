@@ -1,8 +1,18 @@
 Key,Assignee,Summary,Link,Status
-IN-2379,llu,UI is messed up when clicked on the same annual cash bonus multiple times,https://jira.equilar.com/rest/api/latest/issue/43057,Resolved
-IN-2319,llu,[Pen. Test] Insight security flaws -  Cross-Site Scripting - Improper Neutralization of Script in Attributes in a Web Page (CWE ID 83),https://jira.equilar.com/rest/api/latest/issue/41848,In Code Review
-IN-2378,llu,Exchange Rate Conversion Are Not Converted Under Certain Situation,https://jira.equilar.com/rest/api/latest/issue/43053,In Code Review
-IN-2377,sgudiseva,Exchange Rate Conversion - Appendix - Report 10102016-01 tab,https://jira.equilar.com/rest/api/latest/issue/43050,In Progress
-IN-2356,svangala,Currency conversion is applied in Download Report when the Company and  original currency is CAD,https://jira.equilar.com/rest/api/latest/issue/42756,Resolved
-IN-2361,svangala,Data is not seen in Compensation Summary tab after downloading the Pre-run review report ,https://jira.equilar.com/rest/api/latest/issue/42816,Resolved
-IN-2367,SNeelakantam,Null pointer exception is logged and reports fails to run in New TCR.,https://jira.equilar.com/rest/api/latest/issue/42879,In Progress
+IN-2319,llu,[Pen. Test] Insight security flaws -  Cross-Site Scripting - Improper Neutralization of Script in Attributes in a Web Page (CWE ID 83),https://jira.equilar.com/rest/api/latest/issue/41848,In Progress
+IN-2228,ikho,Survey Knowledge Transfer,https://jira.equilar.com/rest/api/latest/issue/41023,Closed
+IN-2385,sgudiseva,Custom Exchange Rate Not Properly Applied In Log Regression Of TCR Download,https://jira.equilar.com/rest/api/latest/issue/43094,In Progress
+IN-2396,sdash,Worked on improve performance of prox calc by multithreading with db connection pool,https://jira.equilar.com/rest/api/latest/issue/43204,Resolved
+IN-2397,vgolakoti,Worked on tcr run report multi threading as LiMing code review comments,https://jira.equilar.com/rest/api/latest/issue/43205,In Progress
+IN-2367,llu,Null pointer exception is logged and reports fails to run in New TCR.,https://jira.equilar.com/rest/api/latest/issue/42879,In Progress
+IN-2395,xzhang,Specs,https://jira.equilar.com/rest/api/latest/issue/43193,Closed
+IN-2394,xzhang,Meetings,https://jira.equilar.com/rest/api/latest/issue/43192,Closed
+IN-2393,xzhang,AskPCM ISS Peers,https://jira.equilar.com/rest/api/latest/issue/43191,Closed
+IN-2392,xzhang,UAT,https://jira.equilar.com/rest/api/latest/issue/43190,Closed
+IN-2384,llu,Add function cause the download report Error,https://jira.equilar.com/rest/api/latest/issue/43093,In QA
+IN-2390,xzhang,Meetings,https://jira.equilar.com/rest/api/latest/issue/43147,Closed
+IN-2389,xzhang,Emails,https://jira.equilar.com/rest/api/latest/issue/43146,Closed
+IN-2388,xzhang,AskPCM,https://jira.equilar.com/rest/api/latest/issue/43145,Closed
+IN-2387,xzhang,UAT,https://jira.equilar.com/rest/api/latest/issue/43144,Closed
+IN-2309,svangala,Stage Regression,https://jira.equilar.com/rest/api/latest/issue/41771,In Progress
+IN-2357,llu,TSR_FY values does not matches for ASR and TSR,https://jira.equilar.com/rest/api/latest/issue/42757,In Code Review

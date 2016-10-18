@@ -1,2 +1,9 @@
 Key,Assignee,Summary,Link,Status
-IN-2309,svangala,Stage Regression,https://jira.equilar.com/rest/api/latest/issue/41771,Closed
+IN-2414,VChunduri,[EMPG] - New Equilar Market Peers DB Change,https://jira.equilar.com/rest/api/latest/issue/43356,In Progress
+IN-2419,sgudiseva,[BEUA] Add an end date to ""Other Cool Stuff"",https://jira.equilar.com/rest/api/latest/issue/43362,In Progress
+IN-2415,vgolakoti,[EMPG] - New Equilar Market Peers Scripts,https://jira.equilar.com/rest/api/latest/issue/43358,In Progress
+IN-2432,sdash,Improve Sonar tech debt (InsightWebService (ws)  InsightScript),https://jira.equilar.com/rest/api/latest/issue/43377,In Progress
+IN-2420,SNeelakantam,[BEUA] Add ""New Publisher"",https://jira.equilar.com/rest/api/latest/issue/43363,In Progress
+IN-2437,svangala,Added Sprint # 90 stories in Test rail,https://jira.equilar.com/rest/api/latest/issue/43387,In Progress
+IN-2438,svangala,Test case authoring for the story IN- 2433,https://jira.equilar.com/rest/api/latest/issue/43389,Test Case In Progress
+IN-2439,vgarg,Test case authoring for the story IN- 2420,https://jira.equilar.com/rest/api/latest/issue/43391,Test Case In Progress

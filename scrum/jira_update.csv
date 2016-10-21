@@ -1,6 +1,6 @@
 Key,Assignee,Summary,Link,Status
-IN-2418,sdash,[SEC Pay] - New Column in Insight DB,https://jira.equilar.com/rest/api/latest/issue/43361,In Progress
-IN-2449,svangala,Test case authoring for the story IN-2417,https://jira.equilar.com/rest/api/latest/issue/43519,Test Case In Progress
-IN-2443,svangala,Test case authoring for the story IN-2418,https://jira.equilar.com/rest/api/latest/issue/43450,Test Case In Review
-IN-2447,llu,Authoring test cases,https://jira.equilar.com/rest/api/latest/issue/43490,In Code Review
-IN-2446,ryang,Troubleshot P4P ISS Simulator slow issue,https://jira.equilar.com/rest/api/latest/issue/43473,Closed
+IN-2433,llu,Refactor Proxy Board Calc - ,https://jira.equilar.com/rest/api/latest/issue/43378,In Code Review
+IN-2418,llu,[SEC Pay] - New Column in Insight DB,https://jira.equilar.com/rest/api/latest/issue/43361,In Code Review
+IN-2452,vgarg,Test case authoring for the story IN- 2416,https://jira.equilar.com/rest/api/latest/issue/43601,Test Case In Progress
+IN-2445,vgarg,Test case authoring for the story IN- 2419,https://jira.equilar.com/rest/api/latest/issue/43455,Test Case In Review
+IN-2451,sgopalam,Reviewed test cases for Story #IN - 2433 ( Refactor Proxy Board Calc ),https://jira.equilar.com/rest/api/latest/issue/43600,In Progress

@@ -1,6 +1,5 @@
 Key,Assignee,Summary,Link,Status
-IN-2433,llu,Refactor Proxy Board Calc - ,https://jira.equilar.com/rest/api/latest/issue/43378,In QA
-IN-2465,sgopalam,Reviewed test cases for Story #IN-2416 ( [Peer Group Portal] - New Messaging ),https://jira.equilar.com/rest/api/latest/issue/43672,In Progress
-IN-2416,llu,[Peer Group Portal] - New Messaging,https://jira.equilar.com/rest/api/latest/issue/43359,In Code Review
-IN-2431,vgolakoti,CWEID 89 - SQL Injection - High Severity,https://jira.equilar.com/rest/api/latest/issue/43374,In Progress
-IN-2464,SNeelakantam,Review testcases for the story IN-2420,https://jira.equilar.com/rest/api/latest/issue/43670,In Progress
+IN-2419,llu,[BEUA] Add an end date to ""Other Cool Stuff"",https://jira.equilar.com/rest/api/latest/issue/43362,In Code Review
+IN-2425,llu,Allow Users (Equilar Admin) to download more than 3 years of proxy data,https://jira.equilar.com/rest/api/latest/issue/43368,In QA
+IN-2421,sgudiseva,Home Page Dashboard v3 with SER Promotion,https://jira.equilar.com/rest/api/latest/issue/43364,In Progress
+IN-2424,VChunduri,""Spike - Memory Leak in REST APP Upgrade to Java1.8?"",https://jira.equilar.com/rest/api/latest/issue/43367,In Progress

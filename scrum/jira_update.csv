@@ -1,5 +1,6 @@
 Key,Assignee,Summary,Link,Status
-IN-2419,llu,[BEUA] Add an end date to ""Other Cool Stuff"",https://jira.equilar.com/rest/api/latest/issue/43362,In Code Review
-IN-2425,llu,Allow Users (Equilar Admin) to download more than 3 years of proxy data,https://jira.equilar.com/rest/api/latest/issue/43368,In QA
-IN-2421,sgudiseva,Home Page Dashboard v3 with SER Promotion,https://jira.equilar.com/rest/api/latest/issue/43364,In Progress
-IN-2424,VChunduri,""Spike - Memory Leak in REST APP Upgrade to Java1.8?"",https://jira.equilar.com/rest/api/latest/issue/43367,In Progress
+IN-2418,ksuresh,[SEC Pay] - New Column in Insight DB,https://jira.equilar.com/rest/api/latest/issue/43361,In QA
+IN-2433,llu,Refactor Proxy Board Calc - ,https://jira.equilar.com/rest/api/latest/issue/43378,Waiting for Fix
+IN-2419,llu,[BEUA] Add an end date to ""Other Cool Stuff"",https://jira.equilar.com/rest/api/latest/issue/43362,In QA
+IN-2417,sgopalam,Lock Down Peers Sent To GL,https://jira.equilar.com/rest/api/latest/issue/43360,In Progress
+IN-2420,llu,[BEUA] Add ""New Publisher"",https://jira.equilar.com/rest/api/latest/issue/43363,In QA

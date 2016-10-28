@@ -1,3 +1,4 @@
 Key,Assignee,Summary,Link,Status
-IN-2417,llu,Lock Down Peers Sent To GL,https://jira.equilar.com/rest/api/latest/issue/43360,In Code Review
-IN-2482,llu,authoring test cases,https://jira.equilar.com/rest/api/latest/issue/43881,In Code Review
+IN-2430,SNeelakantam,PEN Test - Cross-Site Scripting (Part 2),https://jira.equilar.com/rest/api/latest/issue/43373,In Progress
+IN-2478,VChunduri,.PSQLException: ERROR: division by zero exception is logged while running proxy_board_calc.sh script ,https://jira.equilar.com/rest/api/latest/issue/43769,In Progress
+IN-2477,VChunduri,PSQLException is logged while running proxy_board_calc.sh script ,https://jira.equilar.com/rest/api/latest/issue/43766,In Progress

@@ -1,4 +1,6 @@
 Key,Assignee,Summary,Link,Status
-IN-2430,SNeelakantam,PEN Test - Cross-Site Scripting (Part 2),https://jira.equilar.com/rest/api/latest/issue/43373,In Progress
-IN-2478,VChunduri,.PSQLException: ERROR: division by zero exception is logged while running proxy_board_calc.sh script ,https://jira.equilar.com/rest/api/latest/issue/43769,In Progress
-IN-2477,VChunduri,PSQLException is logged while running proxy_board_calc.sh script ,https://jira.equilar.com/rest/api/latest/issue/43766,In Progress
+IN-2417,llu,Lock Down Peers Sent To GL,https://jira.equilar.com/rest/api/latest/issue/43360,In QA
+IN-2415,rvaranasi,[EMPG] - New Equilar Market Peers Scripts,https://jira.equilar.com/rest/api/latest/issue/43358,In QA
+IN-2481,VChunduri,[Regression] Proxy Calc - Exception caused proxy companies deletion,https://jira.equilar.com/rest/api/latest/issue/43815,In Progress
+IN-2486,VChunduri,Deleting proxy data when the company has invalid start date ,https://jira.equilar.com/rest/api/latest/issue/43892,In Progress
+IN-2416,llu,[Peer Group Portal] - New Messaging,https://jira.equilar.com/rest/api/latest/issue/43359,In QA

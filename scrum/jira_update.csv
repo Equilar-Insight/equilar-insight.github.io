@@ -1,1 +1,6 @@
 Key,Assignee,Summary,Link,Status
+IN-2418,rvaranasi,[SEC Pay] - New Column in Insight DB,https://jira.equilar.com/rest/api/latest/issue/43361,Waiting for Fix
+IN-2419,llu,[BEUA] Add an end date to ""Other Cool Stuff"",https://jira.equilar.com/rest/api/latest/issue/43362,Resolved
+IN-2491,sdash,PSQLException: ERROR: duplicate key value violates unique constraint ""rt_bonus_payouts_pkey"" after running load_insight proxy script,https://jira.equilar.com/rest/api/latest/issue/44003,In Progress
+IN-2420,llu,[BEUA] Add ""New Publisher"",https://jira.equilar.com/rest/api/latest/issue/43363,Waiting for Fix
+IN-2439,vgarg,Test case authoring for the story IN- 2420,https://jira.equilar.com/rest/api/latest/issue/43391,Test Case In Review

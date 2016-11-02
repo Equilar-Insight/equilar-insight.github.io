@@ -1,9 +1,3 @@
 Key,Assignee,Summary,Link,Status
-IN-2421,llu,Home Page Dashboard v3 with SER Promotion,https://jira.equilar.com/rest/api/latest/issue/43364,In Code Review
-IN-2415,vgolakoti,[EMPG] - New Equilar Market Peers Scripts,https://jira.equilar.com/rest/api/latest/issue/43358,Waiting for Fix
-IN-2417,llu,Lock Down Peers Sent To GL,https://jira.equilar.com/rest/api/latest/issue/43360,Waiting for Fix
-IN-2489,llu,IllegalStateException is logged while creating new publisher.,https://jira.equilar.com/rest/api/latest/issue/43999,In Code Review
-IN-2416,llu,[Peer Group Portal] - New Messaging,https://jira.equilar.com/rest/api/latest/issue/43359,Resolved
-IN-2492,sdash,Performance Metrics show up as N/A,https://jira.equilar.com/rest/api/latest/issue/44065,In Progress
-IN-2493,llu,FISCAL_YEAR_END is not filled with the target company and INCLUDED_IN_COMPANY_PEER is not updated to 1  for the equilar market peers which are disclosed in the most recent year ,https://jira.equilar.com/rest/api/latest/issue/44070,In Code Review
-IN-2452,vgarg,Test case authoring for the story IN- 2416,https://jira.equilar.com/rest/api/latest/issue/43601,Test Case In Review
+IN-2421,llu,Home Page Dashboard v3 with SER Promotion,https://jira.equilar.com/rest/api/latest/issue/43364,In Progress
+IN-2489,llu,IllegalStateException is logged while creating new publisher.,https://jira.equilar.com/rest/api/latest/issue/43999,In QA

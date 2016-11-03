@@ -1,3 +1,10 @@
 Key,Assignee,Summary,Link,Status
-IN-2421,llu,Home Page Dashboard v3 with SER Promotion,https://jira.equilar.com/rest/api/latest/issue/43364,In Progress
-IN-2489,llu,IllegalStateException is logged while creating new publisher.,https://jira.equilar.com/rest/api/latest/issue/43999,In QA
+IN-2421,llu,Home Page Dashboard v3 with SER Promotion,https://jira.equilar.com/rest/api/latest/issue/43364,In Code Review
+IN-2496,SNeelakantam,Number of Years in TCR Download Doesn't Match The One In Report Setting,https://jira.equilar.com/rest/api/latest/issue/44109,In Progress
+IN-2430,llu,PEN Test - Cross-Site Scripting (Part 2),https://jira.equilar.com/rest/api/latest/issue/43373,In Code Review
+IN-2447,llu,Authoring test cases,https://jira.equilar.com/rest/api/latest/issue/43490,Resolved
+IN-2502,llu,Authoring test cases,https://jira.equilar.com/rest/api/latest/issue/44431,Closed
+IN-2495,sdash,Delete management items failed to be published due to constraint in master_management_ddown_url tabl,https://jira.equilar.com/rest/api/latest/issue/44104,In Progress
+IN-2493,llu,FISCAL_YEAR_END is not filled with the target company and INCLUDED_IN_COMPANY_PEER is not updated to 1  for the equilar market peers which are disclosed in the most recent year ,https://jira.equilar.com/rest/api/latest/issue/44070,In QA
+IN-2420,llu,[BEUA] Add ""New Publisher"",https://jira.equilar.com/rest/api/latest/issue/43363,Resolved
+IN-2489,vgarg,IllegalStateException is logged while creating new publisher.,https://jira.equilar.com/rest/api/latest/issue/43999,Resolved

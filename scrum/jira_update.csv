@@ -1,10 +1,23 @@
 Key,Assignee,Summary,Link,Status
-IN-2421,llu,Home Page Dashboard v3 with SER Promotion,https://jira.equilar.com/rest/api/latest/issue/43364,In Code Review
-IN-2496,SNeelakantam,Number of Years in TCR Download Doesn't Match The One In Report Setting,https://jira.equilar.com/rest/api/latest/issue/44109,In Progress
-IN-2430,llu,PEN Test - Cross-Site Scripting (Part 2),https://jira.equilar.com/rest/api/latest/issue/43373,In Code Review
-IN-2447,llu,Authoring test cases,https://jira.equilar.com/rest/api/latest/issue/43490,Resolved
-IN-2502,llu,Authoring test cases,https://jira.equilar.com/rest/api/latest/issue/44431,Closed
-IN-2495,sdash,Delete management items failed to be published due to constraint in master_management_ddown_url tabl,https://jira.equilar.com/rest/api/latest/issue/44104,In Progress
-IN-2493,llu,FISCAL_YEAR_END is not filled with the target company and INCLUDED_IN_COMPANY_PEER is not updated to 1  for the equilar market peers which are disclosed in the most recent year ,https://jira.equilar.com/rest/api/latest/issue/44070,In QA
-IN-2420,llu,[BEUA] Add ""New Publisher"",https://jira.equilar.com/rest/api/latest/issue/43363,Resolved
-IN-2489,vgarg,IllegalStateException is logged while creating new publisher.,https://jira.equilar.com/rest/api/latest/issue/43999,Resolved
+IN-2421,llu,Home Page Dashboard v3 with SER Promotion,https://jira.equilar.com/rest/api/latest/issue/43364,In QA
+IN-2430,llu,PEN Test - Cross-Site Scripting (Part 2),https://jira.equilar.com/rest/api/latest/issue/43373,In QA
+IN-2481,llu,[Regression] Proxy Calc - Exception caused proxy companies deletion,https://jira.equilar.com/rest/api/latest/issue/43815,In QA
+IN-2499,llu,Running into IllegalStateException on Load Core,https://jira.equilar.com/rest/api/latest/issue/44166,In QA
+IN-2508,llu,[Regression] RT_ETL - DELETE_MANAGE ,https://jira.equilar.com/rest/api/latest/issue/44522,In QA
+IN-2501,llu,Can't run load_peer_company_file_to_insightdb_eq,https://jira.equilar.com/rest/api/latest/issue/44430,In QA
+IN-2506,llu,[O2P Regression] Got duplicated insight activities in Salesforce,https://jira.equilar.com/rest/api/latest/issue/44464,In QA
+IN-2415,vgolakoti,[EMPG] - New Equilar Market Peers Scripts,https://jira.equilar.com/rest/api/latest/issue/43358,Resolved
+IN-2417,llu,Lock Down Peers Sent To GL,https://jira.equilar.com/rest/api/latest/issue/43360,Resolved
+IN-2478,llu,.PSQLException: ERROR: division by zero exception is logged while running proxy_board_calc.sh script ,https://jira.equilar.com/rest/api/latest/issue/43769,In QA
+IN-2477,VChunduri,PSQLException is logged while running proxy_board_calc.sh script ,https://jira.equilar.com/rest/api/latest/issue/43766,Closed
+IN-2444,vgarg,Test case authoring for the story IN- 2421,https://jira.equilar.com/rest/api/latest/issue/43454,Done
+IN-2439,vgarg,Test case authoring for the story IN- 2420,https://jira.equilar.com/rest/api/latest/issue/43391,Done
+IN-2445,vgarg,Test case authoring for the story IN- 2419,https://jira.equilar.com/rest/api/latest/issue/43455,Done
+IN-2452,vgarg,Test case authoring for the story IN- 2416,https://jira.equilar.com/rest/api/latest/issue/43601,Done
+IN-2431,llu,CWEID 89 - SQL Injection - High Severity,https://jira.equilar.com/rest/api/latest/issue/43374,In QA
+IN-2486,llu,Deleting proxy data when the company has invalid start date ,https://jira.equilar.com/rest/api/latest/issue/43892,In Code Review
+IN-2432,llu,Improve Sonar tech debt (InsightWebService (ws)  InsightScript),https://jira.equilar.com/rest/api/latest/issue/43377,In QA
+IN-2492,llu,Performance Metrics show up as N/A,https://jira.equilar.com/rest/api/latest/issue/44065,In QA
+IN-2505,vgarg,Stage Regression,https://jira.equilar.com/rest/api/latest/issue/44458,In Progress
+IN-2442,vgarg,Analyzing Sprint # 90 stories and Point Estimation.,https://jira.equilar.com/rest/api/latest/issue/43444,Closed
+IN-2493,svangala,FISCAL_YEAR_END is not filled with the target company and INCLUDED_IN_COMPANY_PEER is not updated to 1  for the equilar market peers which are disclosed in the most recent year ,https://jira.equilar.com/rest/api/latest/issue/44070,Resolved

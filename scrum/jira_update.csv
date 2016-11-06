@@ -1,16 +1,1 @@
 Key,Assignee,Summary,Link,Status
-IN-2507,llu,Client can't run new tcr reports for a particular search criteria,https://jira.equilar.com/rest/api/latest/issue/44486,In Code Review
-IN-2433,llu,Refactor Proxy Board Calc - ,https://jira.equilar.com/rest/api/latest/issue/43378,Resolved
-IN-2483,llu,deleting survey year using the admin tool is running into errors for some companies.,https://jira.equilar.com/rest/api/latest/issue/43885,In Code Review
-IN-2481,svangala,[Regression] Proxy Calc - Exception caused proxy companies deletion,https://jira.equilar.com/rest/api/latest/issue/43815,Resolved
-IN-2421,llu,Home Page Dashboard v3 with SER Promotion,https://jira.equilar.com/rest/api/latest/issue/43364,Resolved
-IN-2307,sgudiseva,Towers Watson Custom Template Doesn't Run for Anthem,https://jira.equilar.com/rest/api/latest/issue/41727,Closed
-IN-2431,llu,CWEID 89 - SQL Injection - High Severity,https://jira.equilar.com/rest/api/latest/issue/43374,Resolved
-IN-2492,ikho,Performance Metrics show up as N/A,https://jira.equilar.com/rest/api/latest/issue/44065,Resolved
-IN-2495,llu,Delete management items failed to be published due to constraint in master_management_ddown_url tabl,https://jira.equilar.com/rest/api/latest/issue/44104,In QA
-IN-2478,svangala,.PSQLException: ERROR: division by zero exception is logged while running proxy_board_calc.sh script ,https://jira.equilar.com/rest/api/latest/issue/43769,Resolved
-IN-2486,svangala,Deleting proxy data when the company has invalid start date ,https://jira.equilar.com/rest/api/latest/issue/43892,Resolved
-IN-2443,svangala,Test case authoring for the story IN-2418,https://jira.equilar.com/rest/api/latest/issue/43450,Done
-IN-2438,svangala,Test case authoring for the story IN- 2433,https://jira.equilar.com/rest/api/latest/issue/43389,Done
-IN-2449,svangala,Test case authoring for the story IN-2417,https://jira.equilar.com/rest/api/latest/issue/43519,Done
-IN-2505,vgarg,Stage Regression,https://jira.equilar.com/rest/api/latest/issue/44458,Closed

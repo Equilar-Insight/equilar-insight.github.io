@@ -1,1 +1,5 @@
 Key,Assignee,Summary,Link,Status
+IN-2464,llu,Review testcases for the story IN-2420,https://jira.equilar.com/rest/api/latest/issue/43670,Resolved
+IN-2451,sgopalam,Reviewed test cases for Story #IN - 2433 ( Refactor Proxy Board Calc ),https://jira.equilar.com/rest/api/latest/issue/43600,Resolved
+IN-2454,vgolakoti,Review test cases for Story IN-2414,https://jira.equilar.com/rest/api/latest/issue/43606,Resolved
+IN-2465,sgopalam,Reviewed test cases for Story #IN-2416 ( [Peer Group Portal] - New Messaging ),https://jira.equilar.com/rest/api/latest/issue/43672,Resolved

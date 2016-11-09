@@ -1,10 +1,3 @@
 Key,Assignee,Summary,Link,Status
-IN-2511,SNeelakantam,[Look Forward Pay in P4P] - Include LTIP Target Awards From Form 4s,https://jira.equilar.com/rest/api/latest/issue/44656,In Progress
-IN-2516,sdash,[EMPG] - Add The New Equilar Market Peers to Dropdowns With An On/Off Switch,https://jira.equilar.com/rest/api/latest/issue/44661,In Progress
-IN-2517,sgopalam,[EMPG] - Create A Script to Populate New Equilar Market Peers in Peer Selection Drop-downs,https://jira.equilar.com/rest/api/latest/issue/44662,In Progress
-IN-2521,VChunduri,[ISS Simulator] - Retouch the Look Forward TSR Date Logic,https://jira.equilar.com/rest/api/latest/issue/44666,In Progress
-IN-2520,sgudiseva,[GLPG] - Script To Populate GL_PEER_GROUP Table,https://jira.equilar.com/rest/api/latest/issue/44665,In Progress
-IN-2541,vgarg,Test case authoring for the story IN- 2524,https://jira.equilar.com/rest/api/latest/issue/44722,Test Case In Progress
-IN-2539,null,Sprint 91  - Point Estimates,https://jira.equilar.com/rest/api/latest/issue/44717,In Progress
-IN-2540,svangala,Test case authoring for the story IN -2520 ,https://jira.equilar.com/rest/api/latest/issue/44721,Test Case In Progress
-IN-2538,vgarg,Added Sprint 91 stories in to Test rail,https://jira.equilar.com/rest/api/latest/issue/44716,In Progress
+IN-2541,vgarg,Test case authoring for the story IN- 2524,https://jira.equilar.com/rest/api/latest/issue/44722,Test Case In Review
+IN-2540,svangala,Test case authoring for the story IN -2520 ,https://jira.equilar.com/rest/api/latest/issue/44721,Test Case In Review
